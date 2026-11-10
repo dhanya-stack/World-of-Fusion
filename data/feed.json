@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T00:00:00Z",
-  "source_note": "Initial editorial selection verified 10 November 2026. Automatically refreshed after GitHub Actions is enabled.",
+  "updated": "2026-11-10T10:12:33Z",
+  "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
       "title": "Final major vacuum-vessel sector reaches ITER site",
@@ -13,6 +13,36 @@
       "why": "Follow tolerances, joining, inspection and large-component logistics."
     },
     {
+      "title": "DOE Explains...Fusion Energy Science - Department of Energy (.gov)",
+      "date": "2026-11-07",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MS2lfNlExZWlfVEhkWXY2ellmb1Q4RlcyNkZ6R202d2RrM3RHclE4eFRidDR3QXctZFNRUDBYMm44OXJRa2NxRHExdW9zY2JhSUpBZklJaU1ycTJKVWJyQlpqdEc2dnRkN0xDemRZOUJYZw?oc=5",
+      "summary": "DOE Explains...Fusion Energy Science Department of Energy (.gov)",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Tungsten 3D-printed at 2,552°F survives 74 plasma blasts in US nuclear fusion reactor - Interesting Engineering",
+      "date": "2026-11-06",
+      "region": "North America",
+      "tag": "Materials",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjVHUU5Tbm1WQ2czT3V1Q0pKdXA3RV9BWVFwUlFxcjNvSG5nMjdJMlZrN0ZZV3lOYmNUdS1aNllsb1NQWmtLOWR4S3dJNGJxc1FCZTlTRHgwMWlGQS00YnoyX0Fyejk5OGpuWl9qRWNkRGZwZEpmalM3ZVhWMkpVZnZiM3lqaUtGcUs0RWd3?oc=5",
+      "summary": "Tungsten 3D-printed at 2,552°F survives 74 plasma blasts in US nuclear fusion reactor Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Thea Energy, MIT collaborate on testing stellarator magnet technology - American Nuclear Society",
+      "date": "2026-11-06",
+      "region": "North America",
+      "tag": "Magnets",
+      "source": "American Nuclear Society",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0xyX2IxUGlzblJSdzJMdUJlaUpRNlNwZmR6dGI3Y1FhRklKQU04MHpWRUxHQ0stTENSVXJMYW1fWTczYlE1d1lIZ2hqYzR2eE1seGZnWWJJOTVGM19aZWRXREd3QkFCOHFxOTJpWUZDeEE1Mlp6Uzhnc2NrQzBjaHdaVElYbms2Y1hHMDF1U05FbDBsTkRVM3VoRDF5SVRjcjBVV2hGTmt4NTg?oc=5",
+      "summary": "Thea Energy, MIT collaborate on testing stellarator magnet technology American Nuclear Society",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
       "title": "Thea Energy and MIT plan stellarator magnet validation",
       "date": "2026-11-06",
       "region": "North America",
@@ -21,6 +51,46 @@
       "url": "https://www.ans.org/news/2026-11-06/article-8563/thea-energy-mit-collaborate-on-testing-stellarator-magnet-technology/",
       "summary": "A partnership will test an encircling coil concept intended for a stellarator design.",
       "why": "Pay attention to magnetic-field accuracy, coil manufacturing and test validation."
+    },
+    {
+      "title": "US nuclear fusion reactor push to deploy advanced plasma tech, hardware in new pact - Interesting Engineering",
+      "date": "2026-11-05",
+      "region": "North America",
+      "tag": "Plasma",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0J4LWl3YnVHOXE4bURxR3k5ajBDWVJCSmRFOHhqOWZCbHNDMm1ZSUtQN3ZpUHRjRTQ3SHUybkQ3Wkttd1U2N1hOQ0tBVXVVdm5Vb2dXaklyMFFDMU92d3JwZ3hCaWtFRGRXbG1qNFVrYkEya1JhY1gxWEJwbE03WHNreVNJckpHREhvdWQxWXQ?oc=5",
+      "summary": "US nuclear fusion reactor push to deploy advanced plasma tech, hardware in new pact Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F - Interesting Engineering",
+      "date": "2026-11-05",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHVVc3pyWEJpR005cV9NUUtLVnluRk9XTVEwaTQzWXBwRnJnaWQxLTZEZkFHNWZEdnFfQldfZE9PWUgteUlSYm1wTE02WkNJVmFVem9QQ2JUYk1BRm96am51U1FOZThxbXNXR2RibnNVZjZKQWMyanZJZDh2NXhQUWRmN0NtUTEtUFFTSm53NHFBUTR6Y0s0bF9ybmhBQTJlRndGT2Y0U09ZamVidHZzNnNWQUZqS2N4dEE?oc=5",
+      "summary": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Korea Institute of Fusion Energy launches fusion and marine MSR R&D from 2027 - DongA Science",
+      "date": "2026-11-05",
+      "region": "Asia",
+      "tag": "Global news",
+      "source": "DongA Science",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zRUFjdDVPUG9NZXNmYlZpNk5sTmNuY18yVGlyR2d6dVplVkQ5WDV3M1lqTDdLeklLbWEyZGVHa19VZ2haZHU1amdVc1NWR3FmYzkwVw?oc=5",
+      "summary": "Korea Institute of Fusion Energy launches fusion and marine MSR R&D from 2027 DongA Science",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "MIT puts next-generation stellarator magnet through full-force test - Interesting Engineering",
+      "date": "2026-11-05",
+      "region": "North America",
+      "tag": "Magnets",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzBReHlEQlBhX3BKVnNSQlhjZU5pLUV5MDk1TXRuMG5sbDhCVVBXUlJtUGh4ZzlQLVNCODFDNEdJc19FaUtuMjEzNVY1SHRlNjk5TjdCdkM2MXN2OXU3a2Z4eU1pSmRMY1B4dVV4d3ViSDZLVWVMQ3lxV3Fmb3h3ZXdYZWxYZ1My?oc=5",
+      "summary": "MIT puts next-generation stellarator magnet through full-force test Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
     },
     {
       "title": "Europe starts new buildings for ITER heating systems",
@@ -33,16 +103,6 @@
       "why": "Heating is a systems-integration problem involving high-power electronics, cooling and mechanical services."
     },
     {
-      "title": "South Korea announces major new fusion R&D push",
-      "date": "2026-11-05",
-      "region": "Asia",
-      "tag": "Policy",
-      "source": "Fusion Industry Association roundup",
-      "url": "https://www.fusionindustryassociation.org/news/fusion-in-the-news/",
-      "summary": "The country's new programme signals continued investment in domestic research and fusion capability.",
-      "why": "Watch how national strategies influence science priorities and industrial supply chains."
-    },
-    {
       "title": "Additively manufactured tungsten tiles tested at DIII-D",
       "date": "2026-11-05",
       "region": "North America",
@@ -51,6 +111,36 @@
       "url": "https://www.ans.org/news/2026-11-05/article-8560/3dprinted-tungsten-tiles-tested-at-diiid/",
       "summary": "Printed tungsten components survived plasma exposure in a materials experiment.",
       "why": "A direct link between materials processing, quality and plasma-facing component performance."
+    },
+    {
+      "title": "World’s largest fusion reactor tests 330-tonne magnet built to control superhot plasma - Interesting Engineering",
+      "date": "2026-11-04",
+      "region": "Global",
+      "tag": "Magnets",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3MxZmhpb0gtQ1EwVHFPcTc0c1E2SVVlM1JiNEZ4WXZBX0dvQTlreUs2eXVObk05RXJ0a1c0bXVxeFZ0QTFEclNzMnp4RlU1M0RMTktDTHROSVJLQkVvTjNpMC1FRmFyOXdhRGR0ekM4ZlNJaG1PZFhfcGVoVFNqZWVLMm9jcGhOSE1ONXlXdw?oc=5",
+      "summary": "World’s largest fusion reactor tests 330-tonne magnet built to control superhot plasma Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "US fusion reactor could unlock 24/7 power using helicon current drive - Interesting Engineering",
+      "date": "2026-11-03",
+      "region": "North America",
+      "tag": "Global news",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORFN5LWlZQWhDT1NwZ3UzcnNmdk95T0hYdEYtdWpHeG1wcEVvdW9aaU53dTVJZmJabnFOREZGckFnb3JYN1dHTWUzX2FYV1Z3a040ajNxeVU1eTFrazZfdDJJWGxCV25aRDIycXFRZjB3MUlhVkdLS1lIcjNxVi1mZDhRRQ?oc=5",
+      "summary": "US fusion reactor could unlock 24/7 power using helicon current drive Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Fusion companies sign agreements during Japan-Germany meeting - American Nuclear Society",
+      "date": "2026-11-03",
+      "region": "Asia",
+      "tag": "Collaboration",
+      "source": "American Nuclear Society",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkQ0dVhzTlRoN212bDVoU19ON3llZkVUMjVXaFFXOHUyZXNOOHFzZnVVSmtXUVA3VC12QllWdC12a0ZURTZmRy1DMFlCT1FZQmhKNS00M2xNVGU2b0lTbEpJSUo4UENPc3JUSHNoSGhZc1Q1cGdyM3dWYlZ6ZFVlZUhoeFlHV1FHM09aYnVEV1hZWnNnd1hlcVYyRGlUU2NWcHQxLW9Ib3NLUFBYMjhr?oc=5",
+      "summary": "Fusion companies sign agreements during Japan-Germany meeting American Nuclear Society",
+      "why": "Aggregation: check the original reporting and publication date."
     },
     {
       "title": "U.S. announces 28 fusion public–private research awards",
@@ -73,14 +163,54 @@
       "why": "Consider cold acceptance testing, electrical insulation, structural forces and test sequencing."
     },
     {
-      "title": "India-based startup advances compact tokamak roadmap",
-      "date": "2026-10-31",
+      "title": "Radio waves drive a fusion plasma current that could help reactors run continuously - Phys.org",
+      "date": "2026-10-27",
+      "region": "Global",
+      "tag": "Plasma",
+      "source": "Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DSTZibTRDTUxqSm90R003aHM0ZVI5QTlLWjQzQU9TU1FuemRIbjB6WkVHYzgzTTlVRjc2VXd3dUxDZTF1RWNGOVZZNnEzR3dzRmFkSXFHQUc0NHZPZm5PSnljdEJyWktlYXJUWW85bHo1OTVxek9NOWZ5bw?oc=5",
+      "summary": "Radio waves drive a fusion plasma current that could help reactors run continuously Phys.org",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "FIA and J-Fusion Announce Partnership as Japan Accelerates Push to Commercial Fusion Deployment - Fusion Industry Association",
+      "date": "2026-10-27",
       "region": "Asia",
-      "tag": "Industry",
-      "source": "Fusion Industry Association roundup",
-      "url": "https://www.fusionindustryassociation.org/news/fusion-in-the-news/",
-      "summary": "A private fusion developer describes its plans for a larger research tokamak after earlier experimental work.",
-      "why": "Follow the growing variety of approaches beyond national laboratories."
+      "tag": "Collaboration",
+      "source": "Fusion Industry Association",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2ZKd29SUE10aDczZlMyaW9JYVpNVlRib1g5WGM4eHRNNnBYUkc5U3BVWnljT0VlWDVLTTR0clZ6US1WNW1iLV9kMUFIUUpHenZDZGVBMzEyTWN3OEktaGJlNENSRmdLNlNLX0lpZDdZNGZvNVozVnBvZi0tNnBPendCR19YWWcwdHpjVTRBQVVRVkl0NUlaVGdlR00yY0RYVTgtSXl0NU1RbEhvTXBrNDRCcnppcjZOX0hoZUplT1BtcVk1czUwRkk2OUpyYndQTHNxRQ?oc=5",
+      "summary": "FIA and J-Fusion Announce Partnership as Japan Accelerates Push to Commercial Fusion Deployment Fusion Industry Association",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls - Nature World News",
+      "date": "2026-10-25",
+      "region": "North America",
+      "tag": "Materials",
+      "source": "Nature World News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeFJiakN5S0ZGTnJ0MS1WcHY0YnRVR2stSUUxWlFvZDFhVUhPWWV2Uy1Kb3pKS1FvNzZ2bjFGYm85R0ZraDJzYUt2c0Uxclp4SDYxSVVzYWpncnAyaXMtUGJIbFNJN1JndDdsWmM4Y1ZIN2FEVDNpV2xIam9CZGNwRkNYNzM4emlNb29uNjRnT080MW02WjBCeC1TTGpoR0otSkhzOW9NTDlDcUNtRFZzZWNmNU55Nm1zN0stSUVjek1PNnhYTDYwUEFEalRORk13U2J3UkpBeFNmbzVCUi1LM0pDNjg3WjNwd0JB?oc=5",
+      "summary": "PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls Nature World News",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Two fusion reactor designs team up to tackle fusion's biggest hurdles - Interesting Engineering",
+      "date": "2026-10-22",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkdtV25DNnlrbV9Bd2RTNGRDVTBmVGxMM1VYODFMcWp6QTR5VFl1bXk1Z1d1cFRNYmtXVUU0QkdlSVAtNlQ4SEQ0dFptd1ZtZ0J6a211Q0JvSkl6MTNQNkE0dG5POTNBYUlEWUQ2SHU2MEdlNnpnN2d1US1MWmU3eWViN1FWWmhFb1JLX2poUko?oc=5",
+      "summary": "Two fusion reactor designs team up to tackle fusion's biggest hurdles Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Princeton Lab Calculates a Heat-First Route to Fusion Ignition That Could Use Less Energy, but It Has Not Been Tested - Nature World News",
+      "date": "2026-10-21",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Nature World News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR0FHbVJWS0gwZjlneVpzbHBvU1hPQ0hSMzlfYkhSdDNDeXV3WVNxQ0V1Z3FjYm16WDlWZmNwZkhjLXQzaXVBOUhab0oxWk5DdkZ1bG5JVWVkaU1YdDl5YmJVS0JWUHgwaC1ZSDhuOS03SGFRcmF2LTJ6WGNUSWI1VVJkZDg5RUdFXzZRN1E3b1h0bmNTSmIwNmtxSkQwc0g2RGJCMDVIV0pUTl9tT0pwaVRHcldVMmYwZUlYdWlWcW14NDhvUVlFeHh4azdKdWVnRzJXNXd6cEdRMm1SdDJsMlFBeXJrblpkaFVF?oc=5",
+      "summary": "Princeton Lab Calculates a Heat-First Route to Fusion Ignition That Could Use Less Energy, but It Has Not Been Tested Nature World News",
+      "why": "Aggregation: check the original reporting and publication date."
     },
     {
       "title": "Europe signs first procurement arrangements for fusion materials test facility",
@@ -103,36 +233,156 @@
       "why": "Follow cross-border work in stellarators, plasma transport and shared modelling."
     },
     {
-      "title": "New Wendelstein 7-X campaign examines long-pulse operation",
-      "date": "2026-10-19",
-      "region": "Europe",
-      "tag": "Plasma",
-      "source": "ITER news digest",
-      "url": "https://www.iter.org/whatsnew/516",
-      "summary": "International collaborators are exploring hotter, better-confined plasmas, turbulence and sustained discharges.",
-      "why": "Observe how diagnostics, control and wall loading intersect."
+      "title": "Scientists Found a Possible Shortcut to Nuclear Fusion. But There's a Catch Hidden in Reactor Walls - ZME Science",
+      "date": "2026-10-20",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "ZME Science",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFFKaVBBbExIR1dKaDkwWU03NDNacS14NEw3UHR4SGtnYnNoUFBfVmxLZXo5TkNSYnBkSXFrWGhycWJNXzZiY1FGRnVidkd5UC0yQWdHSzBsaUdUSlh1NGw0c3RROXlwSnM0YjNwRnZSQWlGMHg5cUxwdHozMUlENzFLRUV5TnZNV2FONkdtTkNnUmRu?oc=5",
+      "summary": "Scientists Found a Possible Shortcut to Nuclear Fusion. But There's a Catch Hidden in Reactor Walls ZME Science",
+      "why": "Aggregation: check the original reporting and publication date."
     },
     {
-      "title": "China begins constructing hydrogen–boron fusion research platform",
-      "date": "2026-09-18",
-      "region": "Asia",
-      "tag": "Industry",
-      "source": "World Nuclear News",
-      "url": "https://www.world-nuclear-news.org/fusion",
-      "summary": "ENN has begun building the Helong-2 platform for exploration of hydrogen–boron plasma research.",
-      "why": "Compare alternative fuels with the more mature deuterium–tritium approach and their distinct challenges."
+      "title": "US superconducting smart chip analyzes fusion plasma at record speeds - Interesting Engineering",
+      "date": "2026-10-19",
+      "region": "North America",
+      "tag": "Magnets",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXlTajJ1ZDdIbHUwNEpQWGVLTkdURVB0NWZCa0N0RGdObGlubU5Nb3FfRmtUcXpubDIwNXNmR2FQbm8tMzRyc2JFQW9TLTVDUGlNb3l0WVBKZDNJY1pyZE1NdU1aaG43MFRWM3hsQnFkQkF5dGg0MXQxWnpGOTlyMVoydjhFRWs1T0VxTjNVWQ?oc=5",
+      "summary": "US superconducting smart chip analyzes fusion plasma at record speeds Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "US nuclear fusion reactor to test custom exhaust for negative triangularity plasma - Interesting Engineering",
+      "date": "2026-10-18",
+      "region": "North America",
+      "tag": "Plasma",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXB3bmxpRms1Q1BNeUUwSDRqMDBPdTd2MmJBem9QR3JvQjNsVW96WkZCd2h3V3hoZUtQbWUydmFRRkpWbURqbU9XalVDLThKbnhnX0x3UmRwRUV6NEtiTkxOR0xlZzdXeHI5ZmlTbVZQMmRGUkl4WDYyQ3E5emJIcQ?oc=5",
+      "summary": "US nuclear fusion reactor to test custom exhaust for negative triangularity plasma Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
     }
   ],
   "papers": [
     {
-      "title": "Towards reactor-relevant electromagnetic turbulence in a spherical tokamak",
-      "date": "2026-11-01",
+      "title": "CoilStellaration: A Dataset and Benchmark for Engineering-Aware Stellarator Coilset Generation",
+      "date": "2026-11-09",
+      "field": "Stellarator",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.12689v1",
+      "authors": "Jan-Hendrik Ewers, Santiago A. Cadena, Nicolò Foppiani et al.",
+      "summary": "Stellarators are fusion devices that use externally generated, three-dimensional magnetic fields to confine hot plasma and offer a promising route to commercial fusion. Their electromagnetic coils pose a challenging design problem…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Heterogeneous Acceleration of TRIMEG++ code using OpenMP for Gyrokinetic Simulations",
+      "date": "2026-11-09",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.12209v1",
+      "authors": "Nicola Noventa, Giorgio Daneri, Zhixin Lu et al.",
+      "summary": "Turbulent transport largely determines the performance of magnetic-confinement fusion devices such as tokamaks, and gyrokinetic particle-in-cell (PIC) simulations are a principal tool to predict it. Advancing up to hundreds of mil…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Regulating pedestal pressure profile by microtearing modes in the EAST tokamak",
+      "date": "2026-11-08",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.11227v1",
+      "authors": "Jinze Shi, Youwen Sun, Kaixuan Fan et al.",
+      "summary": "The pedestal pressure profile plays a critical role in determining the overall confinement of tokamak fusion plasmas. This letter reports the first evidence on regulating pedestal pressure profile by microtearing modes (MTMs) via…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Analysis of Solid Boron Injection for ITER",
+      "date": "2026-11-08",
+      "field": "Stellarator",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.11054v1",
+      "authors": "Florian Effenberg, Joseph A. Snipes, Federico Nespoli et al.",
+      "summary": "Since ITER will now operate with a full tungsten divertor and first wall, the ITER Organization is considering boron wall conditioning schemes to getter oxygen and reduce tungsten sputtering to avoid excessive radiation to ensure…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas",
+      "date": "2026-11-07",
+      "field": "Diagnostics",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.10870v1",
+      "authors": "Xiaofan Xia, Qin Li, Wenlong Mou",
+      "summary": "We study the problem of controlling instability in the Vlasov--Poisson plasma systems, a fundamental challenge for nuclear fusion control. Motivated by the partial observability of plasma states in practice, we investigate imitati…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "GUERNICA: A continuum kinetic code for neutral dynamics in fusion plasmas",
+      "date": "2026-11-06",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.10256v1",
+      "authors": "Jack Gabriel, Saskia Mordijck",
+      "summary": "We introduce GUERNICA, a GPU-accelerated continuum kinetic code for atomic hydrogen transport in fusion edge plasmas. It solves the Boltzmann equation with charge exchange, ionization, recombination and elastic neutral-neutral col…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Winding-Pack Quench Simulation of Stellarator Coils: Hydraulic Field-Network Coupling and Transverse Heat Conduction in OPENSC$^2$",
+      "date": "2026-11-05",
+      "field": "Stellarator",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.08084v1",
+      "authors": "Laura A. M. D'Angelo, Felix Warmer",
+      "summary": "Quench propagation in cable-in-conduit conductors is thermo-hydraulically driven, yet existing 1D models treat a conductor as one straight adiabatic cable with prescribed pressure and mass-flow boundaries, so secondary quenches an…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "The shear Alfvén continuum of optimized stellarators",
+      "date": "2026-11-04",
+      "field": "Stellarator",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.07182v1",
+      "authors": "Abdullah Hyder, Elizabeth Paul, Alexey Knyazev",
+      "summary": "The shear Alfvén continuum has been studied extensively in tokamaks, but its gap structure in modern optimized stellarators has received less attention, despite its importance for energetic-particle confinement in fusion pilot pla…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "A trust layer for fast pedestal-stability surrogates: calibrated error bars, out-of-distribution alarms and few-shot recalibration",
+      "date": "2026-11-04",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.06597v1",
+      "authors": "Amin Vakhshouri",
+      "summary": "Machine-learning surrogates of linear peeling-ballooning stability now run in milliseconds, but they are mostly deployed as point estimators: they do not say how wrong they may be, or when a query lies outside what they were train…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "First ray-tracing simulations of mode conversion using metaplectic geometrical optics",
+      "date": "2026-11-04",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.06114v1",
+      "authors": "Rui Kai Lee, Valerian H. Hall-Chen, I. Y. Dodin",
+      "summary": "Advanced scenarios of radiofrequency power deposition into magnetically confined fusion plasmas, particularly those using electron Bernstein waves, involve linear mode conversion (energy transfer between separate dispersion branch…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Spontaneous Enhancement of Inward Impurity Pinch during Massive Impurity Injection in Tokamak Plasmas",
+      "date": "2026-11-04",
       "field": "Plasma physics",
-      "level": "Intermediate",
-      "url": "https://arxiv.org/abs/2611.00218",
-      "authors": "D. Kennedy and collaborators",
-      "summary": "A route into understanding turbulence in a device geometry that could matter for reactor operation.",
-      "question": "How does turbulence alter confinement and predicted performance?"
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.05850v1",
+      "authors": "L. Zeng, W. Xia, D. Hu et al.",
+      "summary": "A spontaneous enhancement of inward impurity pinch is identified prior to the fast quench under massive impurity injection on the EAST tokamak. The transition is marked by a rapid shift of the magnetic-island rotation frequency to…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Modeling runaway electron mitigation via passively driven plasma instabilities in a high-current tokamak",
+      "date": "2026-11-03",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.04906v2",
+      "authors": "R Datta, C Clauser, G Hu et al.",
+      "summary": "A critical challenge for tokamak-based fusion power plants is the formation of high-current, relativistic runaway electron (RE) beams during abrupt confinement loss events called disruptions. RE beams may significantly damage mach…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
     },
     {
       "title": "Implicit–Explicit Methods for the GX Gyrokinetics Code",
@@ -143,6 +393,16 @@
       "authors": "P. S. Kim and collaborators",
       "summary": "Numerical techniques for making gyrokinetic simulations more efficient.",
       "question": "Which time scales make plasma simulations costly?"
+    },
+    {
+      "title": "Towards reactor-relevant electromagnetic turbulence in a spherical tokamak",
+      "date": "2026-11-01",
+      "field": "Plasma physics",
+      "level": "Intermediate",
+      "url": "https://arxiv.org/abs/2611.00218",
+      "authors": "D. Kennedy and collaborators",
+      "summary": "A route into understanding turbulence in a device geometry that could matter for reactor operation.",
+      "question": "How does turbulence alter confinement and predicted performance?"
     },
     {
       "title": "Quantum computing for plasma physics in magnetic-confinement fusion",
