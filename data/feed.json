@@ -1,0 +1,178 @@
+{
+  "updated": "2026-11-10T00:00:00Z",
+  "source_note": "Initial editorial selection verified 10 November 2026. Automatically refreshed after GitHub Actions is enabled.",
+  "news": [
+    {
+      "title": "Final major vacuum-vessel sector reaches ITER site",
+      "date": "2026-11-09",
+      "region": "Europe · Global",
+      "tag": "Engineering",
+      "source": "ITER",
+      "url": "https://www.iter.org/whatsnew",
+      "summary": "All the major components for the machine's core are on site, shifting attention to complex assembly, weld quality and integration.",
+      "why": "Follow tolerances, joining, inspection and large-component logistics."
+    },
+    {
+      "title": "Thea Energy and MIT plan stellarator magnet validation",
+      "date": "2026-11-06",
+      "region": "North America",
+      "tag": "Magnets",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-11-06/article-8563/thea-energy-mit-collaborate-on-testing-stellarator-magnet-technology/",
+      "summary": "A partnership will test an encircling coil concept intended for a stellarator design.",
+      "why": "Pay attention to magnetic-field accuracy, coil manufacturing and test validation."
+    },
+    {
+      "title": "Europe starts new buildings for ITER heating systems",
+      "date": "2026-11-05",
+      "region": "Europe",
+      "tag": "Systems",
+      "source": "Fusion for Energy",
+      "url": "https://fusionforenergy.europa.eu/news/europe-starts-works-for-new-iter-heating-buildings/",
+      "summary": "New construction work supports additional heating facilities and bridges at the international fusion site.",
+      "why": "Heating is a systems-integration problem involving high-power electronics, cooling and mechanical services."
+    },
+    {
+      "title": "South Korea announces major new fusion R&D push",
+      "date": "2026-11-05",
+      "region": "Asia",
+      "tag": "Policy",
+      "source": "Fusion Industry Association roundup",
+      "url": "https://www.fusionindustryassociation.org/news/fusion-in-the-news/",
+      "summary": "The country's new programme signals continued investment in domestic research and fusion capability.",
+      "why": "Watch how national strategies influence science priorities and industrial supply chains."
+    },
+    {
+      "title": "Additively manufactured tungsten tiles tested at DIII-D",
+      "date": "2026-11-05",
+      "region": "North America",
+      "tag": "Materials",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2026-11-05/article-8560/3dprinted-tungsten-tiles-tested-at-diiid/",
+      "summary": "Printed tungsten components survived plasma exposure in a materials experiment.",
+      "why": "A direct link between materials processing, quality and plasma-facing component performance."
+    },
+    {
+      "title": "U.S. announces 28 fusion public–private research awards",
+      "date": "2026-11-02",
+      "region": "North America",
+      "tag": "Collaboration",
+      "source": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/science/articles/does-office-science-announces-85-million-innovative-fusion-energy-public-private",
+      "summary": "An $8.5 million round of INFUSE awards connects companies with national laboratories and universities.",
+      "why": "See how engineering capability moves between research institutions and commercial developers."
+    },
+    {
+      "title": "ITER toroidal-field coil reaches half nominal operating current in cold test",
+      "date": "2026-11-02",
+      "region": "Europe · Global",
+      "tag": "Magnets",
+      "source": "ITER",
+      "url": "https://www.iter.org/news",
+      "summary": "A large toroidal-field magnet was energized to 34 kA during testing, with further higher-current testing planned.",
+      "why": "Consider cold acceptance testing, electrical insulation, structural forces and test sequencing."
+    },
+    {
+      "title": "India-based startup advances compact tokamak roadmap",
+      "date": "2026-10-31",
+      "region": "Asia",
+      "tag": "Industry",
+      "source": "Fusion Industry Association roundup",
+      "url": "https://www.fusionindustryassociation.org/news/fusion-in-the-news/",
+      "summary": "A private fusion developer describes its plans for a larger research tokamak after earlier experimental work.",
+      "why": "Follow the growing variety of approaches beyond national laboratories."
+    },
+    {
+      "title": "Europe signs first procurement arrangements for fusion materials test facility",
+      "date": "2026-10-21",
+      "region": "Europe",
+      "tag": "Materials",
+      "source": "Fusion for Energy",
+      "url": "https://fusionforenergy.europa.eu/news/",
+      "summary": "Supply arrangements for IFMIF-DONES move the international neutron-materials research facility forward.",
+      "why": "Understand how structural materials are qualified for future neutron exposure."
+    },
+    {
+      "title": "Germany and U.S. launch joint centre for fusion research",
+      "date": "2026-10-21",
+      "region": "Europe · North America",
+      "tag": "Collaboration",
+      "source": "ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/tag-stellarator/",
+      "summary": "Max Planck researchers and Columbia University formed a joint research centre spanning advanced fusion physics.",
+      "why": "Follow cross-border work in stellarators, plasma transport and shared modelling."
+    },
+    {
+      "title": "New Wendelstein 7-X campaign examines long-pulse operation",
+      "date": "2026-10-19",
+      "region": "Europe",
+      "tag": "Plasma",
+      "source": "ITER news digest",
+      "url": "https://www.iter.org/whatsnew/516",
+      "summary": "International collaborators are exploring hotter, better-confined plasmas, turbulence and sustained discharges.",
+      "why": "Observe how diagnostics, control and wall loading intersect."
+    },
+    {
+      "title": "China begins constructing hydrogen–boron fusion research platform",
+      "date": "2026-09-18",
+      "region": "Asia",
+      "tag": "Industry",
+      "source": "World Nuclear News",
+      "url": "https://www.world-nuclear-news.org/fusion",
+      "summary": "ENN has begun building the Helong-2 platform for exploration of hydrogen–boron plasma research.",
+      "why": "Compare alternative fuels with the more mature deuterium–tritium approach and their distinct challenges."
+    }
+  ],
+  "papers": [
+    {
+      "title": "Towards reactor-relevant electromagnetic turbulence in a spherical tokamak",
+      "date": "2026-11-01",
+      "field": "Plasma physics",
+      "level": "Intermediate",
+      "url": "https://arxiv.org/abs/2611.00218",
+      "authors": "D. Kennedy and collaborators",
+      "summary": "A route into understanding turbulence in a device geometry that could matter for reactor operation.",
+      "question": "How does turbulence alter confinement and predicted performance?"
+    },
+    {
+      "title": "Implicit–Explicit Methods for the GX Gyrokinetics Code",
+      "date": "2026-11-03",
+      "field": "Simulation",
+      "level": "Advanced",
+      "url": "https://arxiv.org/abs/2611.00675",
+      "authors": "P. S. Kim and collaborators",
+      "summary": "Numerical techniques for making gyrokinetic simulations more efficient.",
+      "question": "Which time scales make plasma simulations costly?"
+    },
+    {
+      "title": "Quantum computing for plasma physics in magnetic-confinement fusion",
+      "date": "2026-10-19",
+      "field": "Computing",
+      "level": "Accessible review",
+      "url": "https://arxiv.org/abs/2610.25885",
+      "authors": "C. Zhu and collaborators",
+      "summary": "A review of where quantum methods may help fusion simulation—and where they are not yet practical.",
+      "question": "What exactly limits computational models today?"
+    },
+    {
+      "title": "A programmable stellarator–tokamak hybrid for magnetic-configuration discovery",
+      "date": "2026-05-05",
+      "field": "Machine design",
+      "level": "Intermediate",
+      "url": "https://arxiv.org/abs/2605.03599",
+      "authors": "G. Yu and collaborators",
+      "summary": "A research proposal for a flexible field-configuration platform using many controllable coils.",
+      "question": "Could programmable coils reduce design iteration time?"
+    },
+    {
+      "title": "A new class of optimized stellarators with zero bootstrap current",
+      "date": "2025-05-06",
+      "field": "Stellarator",
+      "level": "Advanced",
+      "url": "https://arxiv.org/abs/2505.02546",
+      "authors": "I. Calvo and collaborators",
+      "summary": "Theory concerning magnetic-field optimization and intrinsic current control in stellarators.",
+      "question": "Why does magnetic topology matter for steady-state operation?"
+    }
+  ]
+}
