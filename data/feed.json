@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T11:02:21Z",
+  "updated": "2026-11-11T21:59:06Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -11,16 +11,6 @@
       "url": "https://www.iter.org/whatsnew",
       "summary": "All the major components for the machine's core are on site, shifting attention to complex assembly, weld quality and integration.",
       "why": "Follow tolerances, joining, inspection and large-component logistics."
-    },
-    {
-      "title": "DOE Explains...Fusion Energy Science - Department of Energy (.gov)",
-      "date": "2026-11-07",
-      "region": "Global",
-      "tag": "Global news",
-      "source": "Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MS2lfNlExZWlfVEhkWXY2ellmb1Q4RlcyNkZ6R202d2RrM3RHclE4eFRidDR3QXctZFNRUDBYMm44OXJRa2NxRHExdW9zY2JhSUpBZklJaU1ycTJKVWJyQlpqdEc2dnRkN0xDemRZOUJYZw?oc=5",
-      "summary": "DOE Explains...Fusion Energy Science Department of Energy (.gov)",
-      "why": "Aggregation: check the original reporting and publication date."
     },
     {
       "title": "DOE Explains...Fusion Nuclear Science and Technology - Department of Energy (.gov)",
@@ -260,6 +250,16 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXB3bmxpRms1Q1BNeUUwSDRqMDBPdTd2MmJBem9QR3JvQjNsVW96WkZCd2h3V3hoZUtQbWUydmFRRkpWbURqbU9XalVDLThKbnhnX0x3UmRwRUV6NEtiTkxOR0xlZzdXeHI5ZmlTbVZQMmRGUkl4WDYyQ3E5emJIcQ?oc=5",
       "summary": "US nuclear fusion reactor to test custom exhaust for negative triangularity plasma Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "In a Huge First, Physicists May Have Found a Shortcut to Fusion Energy - ScienceAlert",
+      "date": "2026-10-15",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "ScienceAlert",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONFpWUWJMM2R1ZnNiMGctNENXRFN3bWlxUk9pbzJTQ1NBRmhadmo5OHVodjBNVGRoa2JDSW03VDdvZktJdGFSRHJBQldBQmoxeVo5VXVSZXZhRUo3Ry1qeGZReXhJSmM4eHhyX3lhOXNBU3FnNXJuZlp5ai13ZkZtODJuRnVuOTZxQlhaU19FN1VXenpPeHpycWFld213Zkk?oc=5",
+      "summary": "In a Huge First, Physicists May Have Found a Shortcut to Fusion Energy ScienceAlert",
       "why": "Aggregation: check the original reporting and publication date."
     }
   ],
