@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T21:19:34Z",
+  "updated": "2026-11-11T11:02:21Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -20,6 +20,16 @@
       "source": "Department of Energy (.gov)",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MS2lfNlExZWlfVEhkWXY2ellmb1Q4RlcyNkZ6R202d2RrM3RHclE4eFRidDR3QXctZFNRUDBYMm44OXJRa2NxRHExdW9zY2JhSUpBZklJaU1ycTJKVWJyQlpqdEc2dnRkN0xDemRZOUJYZw?oc=5",
       "summary": "DOE Explains...Fusion Energy Science Department of Energy (.gov)",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "DOE Explains...Fusion Nuclear Science and Technology - Department of Energy (.gov)",
+      "date": "2026-11-07",
+      "region": "Global",
+      "tag": "Engineering",
+      "source": "Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDVtVGVHZlA0Qkh3SjlEYnRRNjNqdUtHdkdzelQxX09VcnBFaWtpaDBCR1k4d2xtMXFEeHozY09DQ3BYekRhd2pzdXJJU004bDhNLVhaV0ZTVzJWdTRjR09DaTItcW10Wmpqc0VYeWZFd0d5UlJITEJpZVVEallpRWdXaHk3Sms?oc=5",
+      "summary": "DOE Explains...Fusion Nuclear Science and Technology Department of Energy (.gov)",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -60,26 +70,6 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0J4LWl3YnVHOXE4bURxR3k5ajBDWVJCSmRFOHhqOWZCbHNDMm1ZSUtQN3ZpUHRjRTQ3SHUybkQ3Wkttd1U2N1hOQ0tBVXVVdm5Vb2dXaklyMFFDMU92d3JwZ3hCaWtFRGRXbG1qNFVrYkEya1JhY1gxWEJwbE03WHNreVNJckpHREhvdWQxWXQ?oc=5",
       "summary": "US nuclear fusion reactor push to deploy advanced plasma tech, hardware in new pact Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F - Interesting Engineering",
-      "date": "2026-11-05",
-      "region": "Global",
-      "tag": "Global news",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHVVc3pyWEJpR005cV9NUUtLVnluRk9XTVEwaTQzWXBwRnJnaWQxLTZEZkFHNWZEdnFfQldfZE9PWUgteUlSYm1wTE02WkNJVmFVem9QQ2JUYk1BRm96am51U1FOZThxbXNXR2RibnNVZjZKQWMyanZJZDh2NXhQUWRmN0NtUTEtUFFTSm53NHFBUTR6Y0s0bF9ybmhBQTJlRndGT2Y0U09ZamVidHZzNnNWQUZqS2N4dEE?oc=5",
-      "summary": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "Korea Institute of Fusion Energy launches fusion and marine MSR R&D from 2027 - DongA Science",
-      "date": "2026-11-05",
-      "region": "Asia",
-      "tag": "Global news",
-      "source": "DongA Science",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zRUFjdDVPUG9NZXNmYlZpNk5sTmNuY18yVGlyR2d6dVplVkQ5WDV3M1lqTDdLeklLbWEyZGVHa19VZ2haZHU1amdVc1NWR3FmYzkwVw?oc=5",
-      "summary": "Korea Institute of Fusion Energy launches fusion and marine MSR R&D from 2027 DongA Science",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -253,6 +243,16 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
+      "title": "First production unit completed in Europe - ITER",
+      "date": "2026-10-19",
+      "region": "Europe · Global",
+      "tag": "Global news",
+      "source": "ITER",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IR2RfRWZvc3pxaWZOUXpqMU1vdHB3SEpjYWdNTGUzRFh4TW1jdVVDaFNubjFLTEpBTTBLUlJVRnlxWGlrUEhydUNYLTZXV1h5ZTVWallXOGc1dEZUVGhuejR3MEZUOGZjTVN4RENreTVOT3dleTVxWU53?oc=5",
+      "summary": "First production unit completed in Europe ITER",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
       "title": "US nuclear fusion reactor to test custom exhaust for negative triangularity plasma - Interesting Engineering",
       "date": "2026-10-18",
       "region": "North America",
@@ -264,6 +264,36 @@
     }
   ],
   "papers": [
+    {
+      "title": "Analytic Solution to Cumulative Coulomb Scattering in Boltzmann Theory",
+      "date": "2026-11-10",
+      "field": "Plasma physics",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.13793v1",
+      "authors": "Tie-Huai Zhang, Wei-Min Wang, Zi-Yan Zhang et al.",
+      "summary": "In plasmas, frequent soft Coulomb collisions gradually transfer energy and momentum, whereas a single close collision can change both abruptly and redirect a particle. This coexistence can shape runaway-electron avalanches in toka…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Development of a versatile modular system to study the ablation and plume expansion in a thin film",
+      "date": "2026-11-10",
+      "field": "Diagnostics",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.13570v1",
+      "authors": "Renjith Kumar R, Pabitra Kumar Mishra, B R Geethika et al.",
+      "summary": "Time-resolved investigation of laser ablation of thin films requires stable, repeatable, and efficient experimental environment. Conventional approaches often rely on multiple laser-ablation shots acquired at different delay times…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "High-power X-Point Target divertor experiments on the TCV tokamak",
+      "date": "2026-11-09",
+      "field": "Materials",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.13179v1",
+      "authors": "K. Lee, M. Carpita, C. Theiler et al.",
+      "summary": "Stationary power exhaust in the X-Point Target (XPT) divertor configuration is investigated in high-power ($2.5\\,\\text{MW}$) TCV L-mode discharges, in which the Lengyel detachment scaling metric $P_{\\text{SOL}}B_{0}/(R_{0}n_{e,\\te…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
     {
       "title": "CoilStellaration: A Dataset and Benchmark for Engineering-Aware Stellarator Coilset Generation",
       "date": "2026-11-09",
