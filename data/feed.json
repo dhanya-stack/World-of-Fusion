@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-12T11:18:59Z",
+  "updated": "2026-11-12T21:51:06Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
+    {
+      "title": "Nuclear fusion reactor exhaust heat gets world’s first levitated dipole divertor tech - Interesting Engineering",
+      "date": "2026-11-12",
+      "region": "Global",
+      "tag": "Materials",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDZlazByX3Y0Y01mcV9BdmYwdzRkMzJOT2c4bkZnSk9RamZpRnRGV2RmbmtsaFZiQzduMl9FcXptQXFYUGp5eU00MTFLWERMZkpUc25MVHREVnhLTG9ocFl1aFZ1Z3FHUWhhSmRJMG5sdFlwcmNocEhKbVo1ZVBIeGJ0dHA?oc=5",
+      "summary": "Nuclear fusion reactor exhaust heat gets world’s first levitated dipole divertor tech Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
     {
       "title": "Final major vacuum-vessel sector reaches ITER site",
       "date": "2026-11-09",
@@ -63,16 +73,6 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
-      "title": "MIT puts next-generation stellarator magnet through full-force test - Interesting Engineering",
-      "date": "2026-11-05",
-      "region": "North America",
-      "tag": "Magnets",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzBReHlEQlBhX3BKVnNSQlhjZU5pLUV5MDk1TXRuMG5sbDhCVVBXUlJtUGh4ZzlQLVNCODFDNEdJc19FaUtuMjEzNVY1SHRlNjk5TjdCdkM2MXN2OXU3a2Z4eU1pSmRMY1B4dVV4d3ViSDZLVWVMQ3lxV3Fmb3h3ZXdYZWxYZ1My?oc=5",
-      "summary": "MIT puts next-generation stellarator magnet through full-force test Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
       "title": "Europe starts new buildings for ITER heating systems",
       "date": "2026-11-05",
       "region": "Europe",
@@ -91,6 +91,16 @@
       "url": "https://www.ans.org/news/2026-11-05/article-8560/3dprinted-tungsten-tiles-tested-at-diiid/",
       "summary": "Printed tungsten components survived plasma exposure in a materials experiment.",
       "why": "A direct link between materials processing, quality and plasma-facing component performance."
+    },
+    {
+      "title": "MIT puts next-generation stellarator magnet through full-force test - Interesting Engineering",
+      "date": "2026-11-04",
+      "region": "North America",
+      "tag": "Magnets",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzBReHlEQlBhX3BKVnNSQlhjZU5pLUV5MDk1TXRuMG5sbDhCVVBXUlJtUGh4ZzlQLVNCODFDNEdJc19FaUtuMjEzNVY1SHRlNjk5TjdCdkM2MXN2OXU3a2Z4eU1pSmRMY1B4dVV4d3ViSDZLVWVMQ3lxV3Fmb3h3ZXdYZWxYZ1My?oc=5",
+      "summary": "MIT puts next-generation stellarator magnet through full-force test Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
     },
     {
       "title": "US fusion reactor could unlock 24/7 power using helicon current drive - Interesting Engineering",
@@ -250,16 +260,6 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXB3bmxpRms1Q1BNeUUwSDRqMDBPdTd2MmJBem9QR3JvQjNsVW96WkZCd2h3V3hoZUtQbWUydmFRRkpWbURqbU9XalVDLThKbnhnX0x3UmRwRUV6NEtiTkxOR0xlZzdXeHI5ZmlTbVZQMmRGUkl4WDYyQ3E5emJIcQ?oc=5",
       "summary": "US nuclear fusion reactor to test custom exhaust for negative triangularity plasma Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "In a Huge First, Physicists May Have Found a Shortcut to Fusion Energy - ScienceAlert",
-      "date": "2026-10-15",
-      "region": "Global",
-      "tag": "Global news",
-      "source": "ScienceAlert",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONFpWUWJMM2R1ZnNiMGctNENXRFN3bWlxUk9pbzJTQ1NBRmhadmo5OHVodjBNVGRoa2JDSW03VDdvZktJdGFSRHJBQldBQmoxeVo5VXVSZXZhRUo3Ry1qeGZReXhJSmM4eHhyX3lhOXNBU3FnNXJuZlp5ai13ZkZtODJuRnVuOTZxQlhaU19FN1VXenpPeHpycWFld213Zkk?oc=5",
-      "summary": "In a Huge First, Physicists May Have Found a Shortcut to Fusion Energy ScienceAlert",
       "why": "Aggregation: check the original reporting and publication date."
     }
   ],
