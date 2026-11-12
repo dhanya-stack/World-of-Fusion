@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T21:59:06Z",
+  "updated": "2026-11-12T11:18:59Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -93,16 +93,6 @@
       "why": "A direct link between materials processing, quality and plasma-facing component performance."
     },
     {
-      "title": "World's largest fusion project tests 330-tonne magnet at 34 kA - Interesting Engineering",
-      "date": "2026-11-04",
-      "region": "Global",
-      "tag": "Magnets",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3MxZmhpb0gtQ1EwVHFPcTc0c1E2SVVlM1JiNEZ4WXZBX0dvQTlreUs2eXVObk05RXJ0a1c0bXVxeFZ0QTFEclNzMnp4RlU1M0RMTktDTHROSVJLQkVvTjNpMC1FRmFyOXdhRGR0ekM4ZlNJaG1PZFhfcGVoVFNqZWVLMm9jcGhOSE1ONXlXdw?oc=5",
-      "summary": "World's largest fusion project tests 330-tonne magnet at 34 kA Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
       "title": "US fusion reactor could unlock 24/7 power using helicon current drive - Interesting Engineering",
       "date": "2026-11-03",
       "region": "North America",
@@ -120,6 +110,16 @@
       "source": "American Nuclear Society",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkQ0dVhzTlRoN212bDVoU19ON3llZkVUMjVXaFFXOHUyZXNOOHFzZnVVSmtXUVA3VC12QllWdC12a0ZURTZmRy1DMFlCT1FZQmhKNS00M2xNVGU2b0lTbEpJSUo4UENPc3JUSHNoSGhZc1Q1cGdyM3dWYlZ6ZFVlZUhoeFlHV1FHM09aYnVEV1hZWnNnd1hlcVYyRGlUU2NWcHQxLW9Ib3NLUFBYMjhr?oc=5",
       "summary": "Fusion companies sign agreements during Japan-Germany meeting American Nuclear Society",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "World's largest fusion project tests 330-tonne magnet at 34 kA - Interesting Engineering",
+      "date": "2026-11-03",
+      "region": "Global",
+      "tag": "Magnets",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3MxZmhpb0gtQ1EwVHFPcTc0c1E2SVVlM1JiNEZ4WXZBX0dvQTlreUs2eXVObk05RXJ0a1c0bXVxeFZ0QTFEclNzMnp4RlU1M0RMTktDTHROSVJLQkVvTjNpMC1FRmFyOXdhRGR0ekM4ZlNJaG1PZFhfcGVoVFNqZWVLMm9jcGhOSE1ONXlXdw?oc=5",
+      "summary": "World's largest fusion project tests 330-tonne magnet at 34 kA Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
