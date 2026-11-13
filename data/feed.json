@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T11:03:42Z",
+  "updated": "2026-11-13T21:26:54Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -60,6 +60,16 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjVHUU5Tbm1WQ2czT3V1Q0pKdXA3RV9BWVFwUlFxcjNvSG5nMjdJMlZrN0ZZV3lOYmNUdS1aNllsb1NQWmtLOWR4S3dJNGJxc1FCZTlTRHgwMWlGQS00YnoyX0Fyejk5OGpuWl9qRWNkRGZwZEpmalM3ZVhWMkpVZnZiM3lqaUtGcUs0RWd3?oc=5",
       "summary": "Tungsten 3D-printed at 2,552°F survives 74 plasma blasts in US nuclear fusion reactor Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Germany and Japan Strengthen Fusion Energy Cooperation - Fusion Industry Association",
+      "date": "2026-11-06",
+      "region": "Asia",
+      "tag": "Global news",
+      "source": "Fusion Industry Association",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM0FFV0YxVzdSYmdJLWdmVi0yUTk0SW1GMlhDV0xSb08yWmJ3Z1BlODdvdnJISkk4NEl1cEVHekNEdk1lWFptblhick5kZkxldDVYZXdRUFEzSV9ucDZiOGF5eGNKejZhZkNxSFZjaW9qT1VieTFueVU5Q2xqa0kzb3JqYUhoanNmREJUeGs2bDRRTDh4ZndfVVdoQnRNQQ?oc=5",
+      "summary": "Germany and Japan Strengthen Fusion Energy Cooperation Fusion Industry Association",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -190,16 +200,6 @@
       "source": "Fusion Industry Association",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2ZKd29SUE10aDczZlMyaW9JYVpNVlRib1g5WGM4eHRNNnBYUkc5U3BVWnljT0VlWDVLTTR0clZ6US1WNW1iLV9kMUFIUUpHenZDZGVBMzEyTWN3OEktaGJlNENSRmdLNlNLX0lpZDdZNGZvNVozVnBvZi0tNnBPendCR19YWWcwdHpjVTRBQVVRVkl0NUlaVGdlR00yY0RYVTgtSXl0NU1RbEhvTXBrNDRCcnppcjZOX0hoZUplT1BtcVk1czUwRkk2OUpyYndQTHNxRQ?oc=5",
       "summary": "FIA and J-Fusion Announce Partnership as Japan Accelerates Push to Commercial Fusion Deployment Fusion Industry Association",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "Could Fusion Plants Pay for Themselves With Gold? A US Startup Claims It Turned Mercury Into Gold, but Key Data Are Missing - Nature World News",
-      "date": "2026-10-26",
-      "region": "North America",
-      "tag": "Global news",
-      "source": "Nature World News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdEFDbWtmbUZVc2U4VTNFQzh4dVRRN1NKTm1ZUTBZbEJ4aVR0dHBhR2VjZkRRZGlya0NNZHRUcUZxSzFtMGlQWC1MWE5yZlJoam1oY05CUzA4NFo0T0huM2twbENPUHgtYzRVMV9DTXlCWlIzU0ItZlZYd2dNS3NpZjFvNXIwN3JCS1ZjWm1vWlRkMWxxQ3RxeGhYd3NrRXBmTzlqMmN6QmhYRk1YcXI2d3h1NEkwZVh3bHg5Ty16X2dpZW01cGdkcGpwQXprVjlCRkFlZWNiYjdTdHY3ZFA2bVpDaw?oc=5",
-      "summary": "Could Fusion Plants Pay for Themselves With Gold? A US Startup Claims It Turned Mercury Into Gold, but Key Data Are Missing Nature World News",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
