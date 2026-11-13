@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T21:51:06Z",
+  "updated": "2026-11-13T11:03:42Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -13,6 +13,36 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
+      "title": "DOE Explains...Fusion Reactions - Department of Energy (.gov)",
+      "date": "2026-11-10",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01RFNGUUpfcXBaY3JjUHktanp6VmZ3bVpXVUQ5TkF6cUUwV2MzazNsN1VYeGticUNhWDRORzZyUU8yVElqZ1k2U05VNlFhYjdGNnF4NGNYdUtFS056UEgybktjclVld0h5LW1v?oc=5",
+      "summary": "DOE Explains...Fusion Reactions Department of Energy (.gov)",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "DOE Explains...Fusion Nuclear Science and Technology - Department of Energy (.gov)",
+      "date": "2026-11-10",
+      "region": "Global",
+      "tag": "Engineering",
+      "source": "Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDVtVGVHZlA0Qkh3SjlEYnRRNjNqdUtHdkdzelQxX09VcnBFaWtpaDBCR1k4d2xtMXFEeHozY09DQ3BYekRhd2pzdXJJU004bDhNLVhaV0ZTVzJWdTRjR09DaTItcW10Wmpqc0VYeWZFd0d5UlJITEJpZVVEallpRWdXaHk3Sms?oc=5",
+      "summary": "DOE Explains...Fusion Nuclear Science and Technology Department of Energy (.gov)",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "DOE Explains...Burning Plasma - Department of Energy (.gov)",
+      "date": "2026-11-10",
+      "region": "Global",
+      "tag": "Plasma",
+      "source": "Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vbnlDUGpEbjV2UElVTmtDd2VvN01EN1NrNU1pMFdnZ0dkZjBYTHB5bDF0TDlCcENVbUdaMEkwZ0lKTk52b3dHLXpUNGZkcHNXdGtnSW5lWGhGWXVOTGVXanFVbTdLWmVX?oc=5",
+      "summary": "DOE Explains...Burning Plasma Department of Energy (.gov)",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
       "title": "Final major vacuum-vessel sector reaches ITER site",
       "date": "2026-11-09",
       "region": "Europe · Global",
@@ -21,16 +51,6 @@
       "url": "https://www.iter.org/whatsnew",
       "summary": "All the major components for the machine's core are on site, shifting attention to complex assembly, weld quality and integration.",
       "why": "Follow tolerances, joining, inspection and large-component logistics."
-    },
-    {
-      "title": "DOE Explains...Fusion Nuclear Science and Technology - Department of Energy (.gov)",
-      "date": "2026-11-07",
-      "region": "Global",
-      "tag": "Engineering",
-      "source": "Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDVtVGVHZlA0Qkh3SjlEYnRRNjNqdUtHdkdzelQxX09VcnBFaWtpaDBCR1k4d2xtMXFEeHozY09DQ3BYekRhd2pzdXJJU004bDhNLVhaV0ZTVzJWdTRjR09DaTItcW10Wmpqc0VYeWZFd0d5UlJITEJpZVVEallpRWdXaHk3Sms?oc=5",
-      "summary": "DOE Explains...Fusion Nuclear Science and Technology Department of Energy (.gov)",
-      "why": "Aggregation: check the original reporting and publication date."
     },
     {
       "title": "Tungsten 3D-printed at 2,552°F survives 74 plasma blasts in US nuclear fusion reactor - Interesting Engineering",
@@ -48,7 +68,7 @@
       "region": "North America",
       "tag": "Magnets",
       "source": "American Nuclear Society",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0xyX2IxUGlzblJSdzJMdUJlaUpRNlNwZmR6dGI3Y1FhRklKQU04MHpWRUxHQ0stTENSVXJMYW1fWTczYlE1d1lIZ2hqYzR2eE1seGZnWWJJOTVGM19aZWRXREd3QkFCOHFxOTJpWUZDeEE1Mlp6Uzhnc2NrQzBjaHdaVElYbms2Y1hHMDF1U05FbDBsTkRVM3VoRDF5SVRjcjBVV2hGTmt4NTg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVhmNXRrcGtVOHBSRi1Sdy1OaUpUZkk1cnF3TnJERWF3T2ZDYzh3eDZ4b2MyeUVHQWY0VVlRTW4zVkk1UGVnTnRqbEFzbjRnOFp2ald1QjNqYU5sQVN2ZC14UUc2QUR0T3FHMU1oY1RrN1FxQkhEc0Z2MnNkWlMwSy1wZ3Z3Mk00bXhpSlItUktBYnpXa0xmU3QwSlpKRkcybFl2LTBMVGlvR2wwNmYzLU43N2ljaGtSLUE?oc=5",
       "summary": "Thea Energy, MIT collaborate on testing stellarator magnet technology American Nuclear Society",
       "why": "Aggregation: check the original reporting and publication date."
     },
@@ -113,16 +133,6 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
-      "title": "Fusion companies sign agreements during Japan-Germany meeting - American Nuclear Society",
-      "date": "2026-11-03",
-      "region": "Asia",
-      "tag": "Collaboration",
-      "source": "American Nuclear Society",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkQ0dVhzTlRoN212bDVoU19ON3llZkVUMjVXaFFXOHUyZXNOOHFzZnVVSmtXUVA3VC12QllWdC12a0ZURTZmRy1DMFlCT1FZQmhKNS00M2xNVGU2b0lTbEpJSUo4UENPc3JUSHNoSGhZc1Q1cGdyM3dWYlZ6ZFVlZUhoeFlHV1FHM09aYnVEV1hZWnNnd1hlcVYyRGlUU2NWcHQxLW9Ib3NLUFBYMjhr?oc=5",
-      "summary": "Fusion companies sign agreements during Japan-Germany meeting American Nuclear Society",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
       "title": "World's largest fusion project tests 330-tonne magnet at 34 kA - Interesting Engineering",
       "date": "2026-11-03",
       "region": "Global",
@@ -130,6 +140,16 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3MxZmhpb0gtQ1EwVHFPcTc0c1E2SVVlM1JiNEZ4WXZBX0dvQTlreUs2eXVObk05RXJ0a1c0bXVxeFZ0QTFEclNzMnp4RlU1M0RMTktDTHROSVJLQkVvTjNpMC1FRmFyOXdhRGR0ekM4ZlNJaG1PZFhfcGVoVFNqZWVLMm9jcGhOSE1ONXlXdw?oc=5",
       "summary": "World's largest fusion project tests 330-tonne magnet at 34 kA Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Fusion companies sign agreements during Japan-Germany meeting - American Nuclear Society",
+      "date": "2026-11-03",
+      "region": "Asia",
+      "tag": "Collaboration",
+      "source": "American Nuclear Society",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkQ0dVhzTlRoN212bDVoU19ON3llZkVUMjVXaFFXOHUyZXNOOHFzZnVVSmtXUVA3VC12QllWdC12a0ZURTZmRy1DMFlCT1FZQmhKNS00M2xNVGU2b0lTbEpJSUo4UENPc3JUSHNoSGhZc1Q1cGdyM3dWYlZ6ZFVlZUhoeFlHV1FHM09aYnVEV1hZWnNnd1hlcVYyRGlUU2NWcHQxLW9Ib3NLUFBYMjhr?oc=5",
+      "summary": "Fusion companies sign agreements during Japan-Germany meeting American Nuclear Society",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -170,6 +190,16 @@
       "source": "Fusion Industry Association",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2ZKd29SUE10aDczZlMyaW9JYVpNVlRib1g5WGM4eHRNNnBYUkc5U3BVWnljT0VlWDVLTTR0clZ6US1WNW1iLV9kMUFIUUpHenZDZGVBMzEyTWN3OEktaGJlNENSRmdLNlNLX0lpZDdZNGZvNVozVnBvZi0tNnBPendCR19YWWcwdHpjVTRBQVVRVkl0NUlaVGdlR00yY0RYVTgtSXl0NU1RbEhvTXBrNDRCcnppcjZOX0hoZUplT1BtcVk1czUwRkk2OUpyYndQTHNxRQ?oc=5",
       "summary": "FIA and J-Fusion Announce Partnership as Japan Accelerates Push to Commercial Fusion Deployment Fusion Industry Association",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Could Fusion Plants Pay for Themselves With Gold? A US Startup Claims It Turned Mercury Into Gold, but Key Data Are Missing - Nature World News",
+      "date": "2026-10-26",
+      "region": "North America",
+      "tag": "Global news",
+      "source": "Nature World News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdEFDbWtmbUZVc2U4VTNFQzh4dVRRN1NKTm1ZUTBZbEJ4aVR0dHBhR2VjZkRRZGlya0NNZHRUcUZxSzFtMGlQWC1MWE5yZlJoam1oY05CUzA4NFo0T0huM2twbENPUHgtYzRVMV9DTXlCWlIzU0ItZlZYd2dNS3NpZjFvNXIwN3JCS1ZjWm1vWlRkMWxxQ3RxeGhYd3NrRXBmTzlqMmN6QmhYRk1YcXI2d3h1NEkwZVh3bHg5Ty16X2dpZW01cGdkcGpwQXprVjlCRkFlZWNiYjdTdHY3ZFA2bVpDaw?oc=5",
+      "summary": "Could Fusion Plants Pay for Themselves With Gold? A US Startup Claims It Turned Mercury Into Gold, but Key Data Are Missing Nature World News",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -231,39 +261,59 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFFKaVBBbExIR1dKaDkwWU03NDNacS14NEw3UHR4SGtnYnNoUFBfVmxLZXo5TkNSYnBkSXFrWGhycWJNXzZiY1FGRnVidkd5UC0yQWdHSzBsaUdUSlh1NGw0c3RROXlwSnM0YjNwRnZSQWlGMHg5cUxwdHozMUlENzFLRUV5TnZNV2FONkdtTkNnUmRu?oc=5",
       "summary": "Scientists Found a Possible Shortcut to Nuclear Fusion. But There's a Catch Hidden in Reactor Walls ZME Science",
       "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "US superconducting smart chip analyzes fusion plasma at record speeds - Interesting Engineering",
-      "date": "2026-10-19",
-      "region": "North America",
-      "tag": "Magnets",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXlTajJ1ZDdIbHUwNEpQWGVLTkdURVB0NWZCa0N0RGdObGlubU5Nb3FfRmtUcXpubDIwNXNmR2FQbm8tMzRyc2JFQW9TLTVDUGlNb3l0WVBKZDNJY1pyZE1NdU1aaG43MFRWM3hsQnFkQkF5dGg0MXQxWnpGOTlyMVoydjhFRWs1T0VxTjNVWQ?oc=5",
-      "summary": "US superconducting smart chip analyzes fusion plasma at record speeds Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "First production unit completed in Europe - ITER",
-      "date": "2026-10-19",
-      "region": "Europe · Global",
-      "tag": "Global news",
-      "source": "ITER",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IR2RfRWZvc3pxaWZOUXpqMU1vdHB3SEpjYWdNTGUzRFh4TW1jdVVDaFNubjFLTEpBTTBLUlJVRnlxWGlrUEhydUNYLTZXV1h5ZTVWallXOGc1dEZUVGhuejR3MEZUOGZjTVN4RENreTVOT3dleTVxWU53?oc=5",
-      "summary": "First production unit completed in Europe ITER",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "US nuclear fusion reactor to test custom exhaust for negative triangularity plasma - Interesting Engineering",
-      "date": "2026-10-18",
-      "region": "North America",
-      "tag": "Plasma",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXB3bmxpRms1Q1BNeUUwSDRqMDBPdTd2MmJBem9QR3JvQjNsVW96WkZCd2h3V3hoZUtQbWUydmFRRkpWbURqbU9XalVDLThKbnhnX0x3UmRwRUV6NEtiTkxOR0xlZzdXeHI5ZmlTbVZQMmRGUkl4WDYyQ3E5emJIcQ?oc=5",
-      "summary": "US nuclear fusion reactor to test custom exhaust for negative triangularity plasma Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
     }
   ],
   "papers": [
+    {
+      "title": "Impact of edge-localized resonant magnetic perturbation on L-H transition in the KSTAR tokamak",
+      "date": "2026-11-12",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.16846v1",
+      "authors": "Y. Zhang, M. Jiang, K. X. Han et al.",
+      "summary": "The impact of edge-localized resonant magnetic perturbation (ERMP) on the low-to-high (L-H) confinement mode transition is investigated through dedicated experiments on the KSTAR tokamak with tungsten divertor and numerical simula…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Impurity turbulent transport and its role in driving zonal flows in tokamak plasmas",
+      "date": "2026-11-11",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.15382v1",
+      "authors": "Yuesong Li, Zihao Wang, Haochuan Wang et al.",
+      "summary": "The driving mechanisms of zonal flows (ZFs) in multi-ion-species tokamak plasmas are investigated by using gyrokinetic theory and simulations. For deuterium plasmas containing either helium ash with a steep density gradient or lit…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Cross-channel amplification of frequency-distinct scattered waves in multibeam stimulated Brillouin scattering",
+      "date": "2026-11-11",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.15293v1",
+      "authors": "Y. Chen, Qing Wang, H. Wen et al.",
+      "summary": "Multibeam stimulated Brillouin scattering (SBS) can be amplified when one side-scattered wave draws energy from several pumps, each through a separate ion-acoustic-wave (IAW) branch. This is not common-daughter-wave coupling: scat…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Data-driven non-contiguous photon-energy groups for fast multigroup radiation transport in line-dominated plasmas",
+      "date": "2026-11-11",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.15095v1",
+      "authors": "Shinsuke Fujioka, Yuji Takagi, Akira Sasaki et al.",
+      "summary": "Opacity of mid- and high-$Z$ plasmas is dominated by thousands of overlapping spectral lines. Examples are laser-produced plasmas for extreme-ultraviolet (EUV) lithography, inertial-fusion hohlraums, and stellar interiors. Radiati…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Development of Sapphire-Based Solid-State Neutron Detectors for Fusion Environments",
+      "date": "2026-11-10",
+      "field": "Diagnostics",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.14745v1",
+      "authors": "Matteo Hakeem Kushoroa, Stephanie Cancelli, Gabriele Croci et al.",
+      "summary": "Single-crystal diamond is the reference solid-state technology for fast neutron detection in fusion devices. Despite this, its complex manufacturing increases their costs and puts limitations on their geometry. Moreover, the limit…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
     {
       "title": "Analytic Solution to Cumulative Coulomb Scattering in Boltzmann Theory",
       "date": "2026-11-10",
@@ -433,36 +483,6 @@
       "authors": "D. Kennedy and collaborators",
       "summary": "A route into understanding turbulence in a device geometry that could matter for reactor operation.",
       "question": "How does turbulence alter confinement and predicted performance?"
-    },
-    {
-      "title": "Quantum computing for plasma physics in magnetic-confinement fusion",
-      "date": "2026-10-19",
-      "field": "Computing",
-      "level": "Accessible review",
-      "url": "https://arxiv.org/abs/2610.25885",
-      "authors": "C. Zhu and collaborators",
-      "summary": "A review of where quantum methods may help fusion simulation—and where they are not yet practical.",
-      "question": "What exactly limits computational models today?"
-    },
-    {
-      "title": "A programmable stellarator–tokamak hybrid for magnetic-configuration discovery",
-      "date": "2026-05-05",
-      "field": "Machine design",
-      "level": "Intermediate",
-      "url": "https://arxiv.org/abs/2605.03599",
-      "authors": "G. Yu and collaborators",
-      "summary": "A research proposal for a flexible field-configuration platform using many controllable coils.",
-      "question": "Could programmable coils reduce design iteration time?"
-    },
-    {
-      "title": "A new class of optimized stellarators with zero bootstrap current",
-      "date": "2025-05-06",
-      "field": "Stellarator",
-      "level": "Advanced",
-      "url": "https://arxiv.org/abs/2505.02546",
-      "authors": "I. Calvo and collaborators",
-      "summary": "Theory concerning magnetic-field optimization and intrinsic current control in stellarators.",
-      "question": "Why does magnetic topology matter for steady-state operation?"
     }
   ]
 }
