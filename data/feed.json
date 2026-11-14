@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T10:30:32Z",
+  "updated": "2026-11-14T19:56:57Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -203,6 +203,16 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
+      "title": "Could Fusion Plants Pay for Themselves With Gold? A US Startup Claims It Turned Mercury Into Gold, but Key Data Are Missing - Nature World News",
+      "date": "2026-10-26",
+      "region": "North America",
+      "tag": "Global news",
+      "source": "Nature World News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdEFDbWtmbUZVc2U4VTNFQzh4dVRRN1NKTm1ZUTBZbEJ4aVR0dHBhR2VjZkRRZGlya0NNZHRUcUZxSzFtMGlQWC1MWE5yZlJoam1oY05CUzA4NFo0T0huM2twbENPUHgtYzRVMV9DTXlCWlIzU0ItZlZYd2dNS3NpZjFvNXIwN3JCS1ZjWm1vWlRkMWxxQ3RxeGhYd3NrRXBmTzlqMmN6QmhYRk1YcXI2d3h1NEkwZVh3bHg5Ty16X2dpZW01cGdkcGpwQXprVjlCRkFlZWNiYjdTdHY3ZFA2bVpDaw?oc=5",
+      "summary": "Could Fusion Plants Pay for Themselves With Gold? A US Startup Claims It Turned Mercury Into Gold, but Key Data Are Missing Nature World News",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
       "title": "PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls - Nature World News",
       "date": "2026-10-25",
       "region": "North America",
@@ -251,16 +261,6 @@
       "url": "https://www.ans.org/news/tag-stellarator/",
       "summary": "Max Planck researchers and Columbia University formed a joint research centre spanning advanced fusion physics.",
       "why": "Follow cross-border work in stellarators, plasma transport and shared modelling."
-    },
-    {
-      "title": "Scientists Found a Possible Shortcut to Nuclear Fusion. But There's a Catch Hidden in Reactor Walls - ZME Science",
-      "date": "2026-10-20",
-      "region": "Global",
-      "tag": "Global news",
-      "source": "ZME Science",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFFKaVBBbExIR1dKaDkwWU03NDNacS14NEw3UHR4SGtnYnNoUFBfVmxLZXo5TkNSYnBkSXFrWGhycWJNXzZiY1FGRnVidkd5UC0yQWdHSzBsaUdUSlh1NGw0c3RROXlwSnM0YjNwRnZSQWlGMHg5cUxwdHozMUlENzFLRUV5TnZNV2FONkdtTkNnUmRu?oc=5",
-      "summary": "Scientists Found a Possible Shortcut to Nuclear Fusion. But There's a Catch Hidden in Reactor Walls ZME Science",
-      "why": "Aggregation: check the original reporting and publication date."
     }
   ],
   "papers": [
