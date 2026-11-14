@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T21:26:54Z",
+  "updated": "2026-11-14T10:30:32Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -10,16 +10,6 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDZlazByX3Y0Y01mcV9BdmYwdzRkMzJOT2c4bkZnSk9RamZpRnRGV2RmbmtsaFZiQzduMl9FcXptQXFYUGp5eU00MTFLWERMZkpUc25MVHREVnhLTG9ocFl1aFZ1Z3FHUWhhSmRJMG5sdFlwcmNocEhKbVo1ZVBIeGJ0dHA?oc=5",
       "summary": "Nuclear fusion reactor exhaust heat gets world’s first levitated dipole divertor tech Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "DOE Explains...Fusion Reactions - Department of Energy (.gov)",
-      "date": "2026-11-10",
-      "region": "Global",
-      "tag": "Global news",
-      "source": "Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01RFNGUUpfcXBaY3JjUHktanp6VmZ3bVpXVUQ5TkF6cUUwV2MzazNsN1VYeGticUNhWDRORzZyUU8yVElqZ1k2U05VNlFhYjdGNnF4NGNYdUtFS056UEgybktjclVld0h5LW1v?oc=5",
-      "summary": "DOE Explains...Fusion Reactions Department of Energy (.gov)",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -103,6 +93,16 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
+      "title": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F - Interesting Engineering",
+      "date": "2026-11-05",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHVVc3pyWEJpR005cV9NUUtLVnluRk9XTVEwaTQzWXBwRnJnaWQxLTZEZkFHNWZEdnFfQldfZE9PWUgteUlSYm1wTE02WkNJVmFVem9QQ2JUYk1BRm96am51U1FOZThxbXNXR2RibnNVZjZKQWMyanZJZDh2NXhQUWRmN0NtUTEtUFFTSm53NHFBUTR6Y0s0bF9ybmhBQTJlRndGT2Y0U09ZamVidHZzNnNWQUZqS2N4dEE?oc=5",
+      "summary": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
       "title": "Europe starts new buildings for ITER heating systems",
       "date": "2026-11-05",
       "region": "Europe",
@@ -143,16 +143,6 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
-      "title": "World's largest fusion project tests 330-tonne magnet at 34 kA - Interesting Engineering",
-      "date": "2026-11-03",
-      "region": "Global",
-      "tag": "Magnets",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3MxZmhpb0gtQ1EwVHFPcTc0c1E2SVVlM1JiNEZ4WXZBX0dvQTlreUs2eXVObk05RXJ0a1c0bXVxeFZ0QTFEclNzMnp4RlU1M0RMTktDTHROSVJLQkVvTjNpMC1FRmFyOXdhRGR0ekM4ZlNJaG1PZFhfcGVoVFNqZWVLMm9jcGhOSE1ONXlXdw?oc=5",
-      "summary": "World's largest fusion project tests 330-tonne magnet at 34 kA Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
       "title": "Fusion companies sign agreements during Japan-Germany meeting - American Nuclear Society",
       "date": "2026-11-03",
       "region": "Asia",
@@ -160,6 +150,16 @@
       "source": "American Nuclear Society",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkQ0dVhzTlRoN212bDVoU19ON3llZkVUMjVXaFFXOHUyZXNOOHFzZnVVSmtXUVA3VC12QllWdC12a0ZURTZmRy1DMFlCT1FZQmhKNS00M2xNVGU2b0lTbEpJSUo4UENPc3JUSHNoSGhZc1Q1cGdyM3dWYlZ6ZFVlZUhoeFlHV1FHM09aYnVEV1hZWnNnd1hlcVYyRGlUU2NWcHQxLW9Ib3NLUFBYMjhr?oc=5",
       "summary": "Fusion companies sign agreements during Japan-Germany meeting American Nuclear Society",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "World's largest fusion project tests 330-tonne magnet at 34 kA - Interesting Engineering",
+      "date": "2026-11-03",
+      "region": "Global",
+      "tag": "Magnets",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3MxZmhpb0gtQ1EwVHFPcTc0c1E2SVVlM1JiNEZ4WXZBX0dvQTlreUs2eXVObk05RXJ0a1c0bXVxeFZ0QTFEclNzMnp4RlU1M0RMTktDTHROSVJLQkVvTjNpMC1FRmFyOXdhRGR0ekM4ZlNJaG1PZFhfcGVoVFNqZWVLMm9jcGhOSE1ONXlXdw?oc=5",
+      "summary": "World's largest fusion project tests 330-tonne magnet at 34 kA Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
