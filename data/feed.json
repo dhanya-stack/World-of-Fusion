@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T19:56:57Z",
+  "updated": "2026-11-15T10:58:50Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -10,16 +10,6 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDZlazByX3Y0Y01mcV9BdmYwdzRkMzJOT2c4bkZnSk9RamZpRnRGV2RmbmtsaFZiQzduMl9FcXptQXFYUGp5eU00MTFLWERMZkpUc25MVHREVnhLTG9ocFl1aFZ1Z3FHUWhhSmRJMG5sdFlwcmNocEhKbVo1ZVBIeGJ0dHA?oc=5",
       "summary": "Nuclear fusion reactor exhaust heat gets world’s first levitated dipole divertor tech Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "DOE Explains...Fusion Nuclear Science and Technology - Department of Energy (.gov)",
-      "date": "2026-11-10",
-      "region": "Global",
-      "tag": "Engineering",
-      "source": "Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDVtVGVHZlA0Qkh3SjlEYnRRNjNqdUtHdkdzelQxX09VcnBFaWtpaDBCR1k4d2xtMXFEeHozY09DQ3BYekRhd2pzdXJJU004bDhNLVhaV0ZTVzJWdTRjR09DaTItcW10Wmpqc0VYeWZFd0d5UlJITEJpZVVEallpRWdXaHk3Sms?oc=5",
-      "summary": "DOE Explains...Fusion Nuclear Science and Technology Department of Energy (.gov)",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -261,6 +251,16 @@
       "url": "https://www.ans.org/news/tag-stellarator/",
       "summary": "Max Planck researchers and Columbia University formed a joint research centre spanning advanced fusion physics.",
       "why": "Follow cross-border work in stellarators, plasma transport and shared modelling."
+    },
+    {
+      "title": "Scientists Found a Possible Shortcut to Nuclear Fusion. But There's a Catch Hidden in Reactor Walls - ZME Science",
+      "date": "2026-10-20",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "ZME Science",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFFKaVBBbExIR1dKaDkwWU03NDNacS14NEw3UHR4SGtnYnNoUFBfVmxLZXo5TkNSYnBkSXFrWGhycWJNXzZiY1FGRnVidkd5UC0yQWdHSzBsaUdUSlh1NGw0c3RROXlwSnM0YjNwRnZSQWlGMHg5cUxwdHozMUlENzFLRUV5TnZNV2FONkdtTkNnUmRu?oc=5",
+      "summary": "Scientists Found a Possible Shortcut to Nuclear Fusion. But There's a Catch Hidden in Reactor Walls ZME Science",
+      "why": "Aggregation: check the original reporting and publication date."
     }
   ],
   "papers": [
