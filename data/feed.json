@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T10:58:50Z",
+  "updated": "2026-11-15T20:25:15Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -111,6 +111,16 @@
       "url": "https://www.ans.org/news/2026-11-05/article-8560/3dprinted-tungsten-tiles-tested-at-diiid/",
       "summary": "Printed tungsten components survived plasma exposure in a materials experiment.",
       "why": "A direct link between materials processing, quality and plasma-facing component performance."
+    },
+    {
+      "title": "FIA Leads Fusion Trade Mission to Japan - Fusion Industry Association",
+      "date": "2026-11-04",
+      "region": "Asia",
+      "tag": "Global news",
+      "source": "Fusion Industry Association",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS21MVFdKQWRIbkpVRjJXX1NScDNrRU80ZmN0VFlZVGpMQ3pQc3MzWWZNXzJYMDBkNzJuVlF3cnR6SDN4Zmd2OUNtdVh6dV9FYXBFQ3FGazVCYXY3b1BSSDFPTjh2NF9mWXhjd0FCXzgwSHY2YUtrMV84NklKV3dWb3ZKaUtqYVJ6cWc?oc=5",
+      "summary": "FIA Leads Fusion Trade Mission to Japan Fusion Industry Association",
+      "why": "Aggregation: check the original reporting and publication date."
     },
     {
       "title": "MIT puts next-generation stellarator magnet through full-force test - Interesting Engineering",
@@ -251,16 +261,6 @@
       "url": "https://www.ans.org/news/tag-stellarator/",
       "summary": "Max Planck researchers and Columbia University formed a joint research centre spanning advanced fusion physics.",
       "why": "Follow cross-border work in stellarators, plasma transport and shared modelling."
-    },
-    {
-      "title": "Scientists Found a Possible Shortcut to Nuclear Fusion. But There's a Catch Hidden in Reactor Walls - ZME Science",
-      "date": "2026-10-20",
-      "region": "Global",
-      "tag": "Global news",
-      "source": "ZME Science",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFFKaVBBbExIR1dKaDkwWU03NDNacS14NEw3UHR4SGtnYnNoUFBfVmxLZXo5TkNSYnBkSXFrWGhycWJNXzZiY1FGRnVidkd5UC0yQWdHSzBsaUdUSlh1NGw0c3RROXlwSnM0YjNwRnZSQWlGMHg5cUxwdHozMUlENzFLRUV5TnZNV2FONkdtTkNnUmRu?oc=5",
-      "summary": "Scientists Found a Possible Shortcut to Nuclear Fusion. But There's a Catch Hidden in Reactor Walls ZME Science",
-      "why": "Aggregation: check the original reporting and publication date."
     }
   ],
   "papers": [
