@@ -1,7 +1,27 @@
 {
-  "updated": "2026-11-16T11:27:12Z",
+  "updated": "2026-11-16T23:45:01Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
+    {
+      "title": "France adopts a national strategy for fusion - ITER",
+      "date": "2026-11-16",
+      "region": "Europe · Global",
+      "tag": "Global news",
+      "source": "ITER",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CZ3pxLXVLQVJwSVBHYmRsaEdsd1FVYXRJc0J2eWNKdFRlazMyeVo4NXI5LTFYc3JibTRkNTI4ank5eE5jZ0YyTVNGQjBhZEZUZml2Wlp3NHNOWEFmRVFzbU4zcUhvZUhrRlgxeGo3Tko5WlRBQ0FseFpB?oc=5",
+      "summary": "France adopts a national strategy for fusion ITER",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "An international gathering on fusion in Vienna - ITER",
+      "date": "2026-11-16",
+      "region": "Europe · Global",
+      "tag": "Global news",
+      "source": "ITER",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBONGZGeFlHcFItVUozanZnV0hMNnBSX3pDZEtjeUgtNFV0dzM1UGNuZDdnRjgyU3RkNm5MeVAtQVRuQWNENDBQNjlobF95NzZoWjZBYml6c0lUbnlXTG5wMjczRElIM0l6Z1RwNWJtTmtRZHhYeTRHeQ?oc=5",
+      "summary": "An international gathering on fusion in Vienna ITER",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
     {
       "title": "Nuclear fusion reactor exhaust heat gets world’s first levitated dipole divertor tech - Interesting Engineering",
       "date": "2026-11-12",
@@ -10,16 +30,6 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDZlazByX3Y0Y01mcV9BdmYwdzRkMzJOT2c4bkZnSk9RamZpRnRGV2RmbmtsaFZiQzduMl9FcXptQXFYUGp5eU00MTFLWERMZkpUc25MVHREVnhLTG9ocFl1aFZ1Z3FHUWhhSmRJMG5sdFlwcmNocEhKbVo1ZVBIeGJ0dHA?oc=5",
       "summary": "Nuclear fusion reactor exhaust heat gets world’s first levitated dipole divertor tech Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "DOE Explains...Burning Plasma - Department of Energy (.gov)",
-      "date": "2026-11-10",
-      "region": "Global",
-      "tag": "Plasma",
-      "source": "Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vbnlDUGpEbjV2UElVTmtDd2VvN01EN1NrNU1pMFdnZ0dkZjBYTHB5bDF0TDlCcENVbUdaMEkwZ0lKTk52b3dHLXpUNGZkcHNXdGtnSW5lWGhGWXVOTGVXanFVbTdLWmVX?oc=5",
-      "summary": "DOE Explains...Burning Plasma Department of Energy (.gov)",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -90,6 +100,16 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHVVc3pyWEJpR005cV9NUUtLVnluRk9XTVEwaTQzWXBwRnJnaWQxLTZEZkFHNWZEdnFfQldfZE9PWUgteUlSYm1wTE02WkNJVmFVem9QQ2JUYk1BRm96am51U1FOZThxbXNXR2RibnNVZjZKQWMyanZJZDh2NXhQUWRmN0NtUTEtUFFTSm53NHFBUTR6Y0s0bF9ybmhBQTJlRndGT2Y0U09ZamVidHZzNnNWQUZqS2N4dEE?oc=5",
       "summary": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Tag: plasma facing components - American Nuclear Society",
+      "date": "2026-11-05",
+      "region": "North America",
+      "tag": "Plasma",
+      "source": "American Nuclear Society",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55eDVHMHdQUk9CUi1Tc251Y0lHM3JZLWdEM0dwSzhxQWhiZGlocjVTbXM4RVVGbFNIbDZLS1ZGbzNzUkxpWlFucUR4bDhFaVhoYl9mNG1JVkdJYUVQZ29RWEZENEJNTlByOEE?oc=5",
+      "summary": "Tag: plasma facing components American Nuclear Society",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -241,26 +261,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR0FHbVJWS0gwZjlneVpzbHBvU1hPQ0hSMzlfYkhSdDNDeXV3WVNxQ0V1Z3FjYm16WDlWZmNwZkhjLXQzaXVBOUhab0oxWk5DdkZ1bG5JVWVkaU1YdDl5YmJVS0JWUHgwaC1ZSDhuOS03SGFRcmF2LTJ6WGNUSWI1VVJkZDg5RUdFXzZRN1E3b1h0bmNTSmIwNmtxSkQwc0g2RGJCMDVIV0pUTl9tT0pwaVRHcldVMmYwZUlYdWlWcW14NDhvUVlFeHh4azdKdWVnRzJXNXd6cEdRMm1SdDJsMlFBeXJrblpkaFVF?oc=5",
       "summary": "Princeton Lab Calculates a Heat-First Route to Fusion Ignition That Could Use Less Energy, but It Has Not Been Tested Nature World News",
       "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "Europe signs first procurement arrangements for fusion materials test facility",
-      "date": "2026-10-21",
-      "region": "Europe",
-      "tag": "Materials",
-      "source": "Fusion for Energy",
-      "url": "https://fusionforenergy.europa.eu/news/",
-      "summary": "Supply arrangements for IFMIF-DONES move the international neutron-materials research facility forward.",
-      "why": "Understand how structural materials are qualified for future neutron exposure."
-    },
-    {
-      "title": "Germany and U.S. launch joint centre for fusion research",
-      "date": "2026-10-21",
-      "region": "Europe · North America",
-      "tag": "Collaboration",
-      "source": "ANS Nuclear Newswire",
-      "url": "https://www.ans.org/news/tag-stellarator/",
-      "summary": "Max Planck researchers and Columbia University formed a joint research centre spanning advanced fusion physics.",
-      "why": "Follow cross-border work in stellarators, plasma transport and shared modelling."
     }
   ],
   "papers": [
