@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T20:25:15Z",
+  "updated": "2026-11-16T11:27:12Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -265,6 +265,26 @@
   ],
   "papers": [
     {
+      "title": "Generation of low-frequency flows by shear Alfvén waves in magnetohydrodynamics",
+      "date": "2026-11-13",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.18423v1",
+      "authors": "James M. Edmiston, Michael Fitzgerald, Juan Ruiz Ruiz et al.",
+      "summary": "Coherently forced, weak reduced-magnetohydrodynamic turbulence is studied in a uniform plasma to investigate the long-term nonlinear interactions of shear Alfvén waves. The 'pump waves' are chosen to model toroidal Alfvén eigenmod…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs",
+      "date": "2026-11-13",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.18409v1",
+      "authors": "Stanislas Pamela, Nicolas Pailliez, Emmanuel Franck et al.",
+      "summary": "Research in the domain of Physics-Informed Neural Networks applied to PDE modelling has advanced significantly in recent years, providing a wide ecosystem of novel methods. However, one frequent limitation is the inability of PINN…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
       "title": "Impact of edge-localized resonant magnetic perturbation on L-H transition in the KSTAR tokamak",
       "date": "2026-11-12",
       "field": "Simulation",
@@ -463,26 +483,6 @@
       "authors": "R Datta, C Clauser, G Hu et al.",
       "summary": "A critical challenge for tokamak-based fusion power plants is the formation of high-current, relativistic runaway electron (RE) beams during abrupt confinement loss events called disruptions. RE beams may significantly damage mach…",
       "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Implicit–Explicit Methods for the GX Gyrokinetics Code",
-      "date": "2026-11-03",
-      "field": "Simulation",
-      "level": "Advanced",
-      "url": "https://arxiv.org/abs/2611.00675",
-      "authors": "P. S. Kim and collaborators",
-      "summary": "Numerical techniques for making gyrokinetic simulations more efficient.",
-      "question": "Which time scales make plasma simulations costly?"
-    },
-    {
-      "title": "Towards reactor-relevant electromagnetic turbulence in a spherical tokamak",
-      "date": "2026-11-01",
-      "field": "Plasma physics",
-      "level": "Intermediate",
-      "url": "https://arxiv.org/abs/2611.00218",
-      "authors": "D. Kennedy and collaborators",
-      "summary": "A route into understanding turbulence in a device geometry that could matter for reactor operation.",
-      "question": "How does turbulence alter confinement and predicted performance?"
     }
   ]
 }
