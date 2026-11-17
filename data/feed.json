@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-16T23:45:01Z",
+  "updated": "2026-11-17T11:56:04Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
+    {
+      "title": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel - Interesting Engineering",
+      "date": "2026-11-16",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmk0TmVKOGhvc1V5RVdxWUJIRWhQNDhiZjhsdXZoNjR5cVdsQkpkR2NwajNDd2Y3WXhOSEJJQjducTIyUjUzcW1BSmwxRDNmeGYwNEhMNGxoOW5oS2pIandqMW4zWjNGeGd1QU1rWnpXNnlfc3RVV21waDhjZHB1dlJGaVZKdzZZ?oc=5",
+      "summary": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
     {
       "title": "France adopts a national strategy for fusion - ITER",
       "date": "2026-11-16",
@@ -251,19 +261,39 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkdtV25DNnlrbV9Bd2RTNGRDVTBmVGxMM1VYODFMcWp6QTR5VFl1bXk1Z1d1cFRNYmtXVUU0QkdlSVAtNlQ4SEQ0dFptd1ZtZ0J6a211Q0JvSkl6MTNQNkE0dG5POTNBYUlEWUQ2SHU2MEdlNnpnN2d1US1MWmU3eWViN1FWWmhFb1JLX2poUko?oc=5",
       "summary": "Two fusion reactor designs team up to tackle fusion's biggest hurdles Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "Princeton Lab Calculates a Heat-First Route to Fusion Ignition That Could Use Less Energy, but It Has Not Been Tested - Nature World News",
-      "date": "2026-10-21",
-      "region": "Global",
-      "tag": "Global news",
-      "source": "Nature World News",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR0FHbVJWS0gwZjlneVpzbHBvU1hPQ0hSMzlfYkhSdDNDeXV3WVNxQ0V1Z3FjYm16WDlWZmNwZkhjLXQzaXVBOUhab0oxWk5DdkZ1bG5JVWVkaU1YdDl5YmJVS0JWUHgwaC1ZSDhuOS03SGFRcmF2LTJ6WGNUSWI1VVJkZDg5RUdFXzZRN1E3b1h0bmNTSmIwNmtxSkQwc0g2RGJCMDVIV0pUTl9tT0pwaVRHcldVMmYwZUlYdWlWcW14NDhvUVlFeHh4azdKdWVnRzJXNXd6cEdRMm1SdDJsMlFBeXJrblpkaFVF?oc=5",
-      "summary": "Princeton Lab Calculates a Heat-First Route to Fusion Ignition That Could Use Less Energy, but It Has Not Been Tested Nature World News",
-      "why": "Aggregation: check the original reporting and publication date."
     }
   ],
   "papers": [
+    {
+      "title": "Cold stellarator coils that outlast power plant lifetime",
+      "date": "2026-11-16",
+      "field": "Stellarator",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.20601v1",
+      "authors": "J. F. Parisi, J. D. Suh",
+      "summary": "We show that a two order-of-magnitude reduction in stellarator coil peak neutron flux and heating can be achieved by moving coils much farther from the plasma if the plasma shape may change slightly and the vessel shielding is inc…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Simulations of turbulent heat and particle transport in stellarator plasmas",
+      "date": "2026-11-14",
+      "field": "Stellarator",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.19520v1",
+      "authors": "Hanne Thienpondt",
+      "summary": "Achieving sustained energy production in magnetic confinement fusion reactors requires a deep understanding of turbulent transport of heat and particles. This thesis investigates turbulent transport with a particular emphasis on s…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Scaling of the Radial Motion and Size of Filamentary Structures in the Scrape-Off Layer Inferred from 100 kHz Visible Imaging on 294 MAST Discharges",
+      "date": "2026-11-14",
+      "field": "Plasma physics",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.19175v1",
+      "authors": "Jessie Dong, Ryan Wu",
+      "summary": "Filaments are important carriers of cross-field transport in the scrape-off layer of a tokamak. Analytic models predict that their radial velocity varies with their size. We measured the radial velocity and size of a large populat…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
     {
       "title": "Generation of low-frequency flows by shear Alfvén waves in magnetohydrodynamics",
       "date": "2026-11-13",
@@ -312,6 +342,16 @@
       "url": "http://arxiv.org/abs/2611.15293v1",
       "authors": "Y. Chen, Qing Wang, H. Wen et al.",
       "summary": "Multibeam stimulated Brillouin scattering (SBS) can be amplified when one side-scattered wave draws energy from several pumps, each through a separate ion-acoustic-wave (IAW) branch. This is not common-daughter-wave coupling: scat…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Data-driven non-contiguous photon-energy groups for fast multigroup radiation transport in line-dominated plasmas",
+      "date": "2026-11-11",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.15095v2",
+      "authors": "Shinsuke Fujioka, Yuji Takagi, Nozomi Tanaka et al.",
+      "summary": "Radiation transport in line-dominated plasmas, such as extreme ultraviolet (EUV) light source plasma, laser-fusion hohlraums, and stellar interiors, needs too many photon-energy groups for accurate radiation-hydrodynamic simulatio…",
       "question": "What is new, what evidence is shown, and what are the limitations?"
     },
     {
@@ -442,46 +482,6 @@
       "url": "http://arxiv.org/abs/2611.07182v1",
       "authors": "Abdullah Hyder, Elizabeth Paul, Alexey Knyazev",
       "summary": "The shear Alfvén continuum has been studied extensively in tokamaks, but its gap structure in modern optimized stellarators has received less attention, despite its importance for energetic-particle confinement in fusion pilot pla…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "A trust layer for fast pedestal-stability surrogates: calibrated error bars, out-of-distribution alarms and few-shot recalibration",
-      "date": "2026-11-04",
-      "field": "Simulation",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.06597v1",
-      "authors": "Amin Vakhshouri",
-      "summary": "Machine-learning surrogates of linear peeling-ballooning stability now run in milliseconds, but they are mostly deployed as point estimators: they do not say how wrong they may be, or when a query lies outside what they were train…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "First ray-tracing simulations of mode conversion using metaplectic geometrical optics",
-      "date": "2026-11-04",
-      "field": "Simulation",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.06114v1",
-      "authors": "Rui Kai Lee, Valerian H. Hall-Chen, I. Y. Dodin",
-      "summary": "Advanced scenarios of radiofrequency power deposition into magnetically confined fusion plasmas, particularly those using electron Bernstein waves, involve linear mode conversion (energy transfer between separate dispersion branch…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Spontaneous Enhancement of Inward Impurity Pinch during Massive Impurity Injection in Tokamak Plasmas",
-      "date": "2026-11-04",
-      "field": "Plasma physics",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.05850v1",
-      "authors": "L. Zeng, W. Xia, D. Hu et al.",
-      "summary": "A spontaneous enhancement of inward impurity pinch is identified prior to the fast quench under massive impurity injection on the EAST tokamak. The transition is marked by a rapid shift of the magnetic-island rotation frequency to…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Modeling runaway electron mitigation via passively driven plasma instabilities in a high-current tokamak",
-      "date": "2026-11-03",
-      "field": "Simulation",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.04906v2",
-      "authors": "R Datta, C Clauser, G Hu et al.",
-      "summary": "A critical challenge for tokamak-based fusion power plants is the formation of high-current, relativistic runaway electron (RE) beams during abrupt confinement loss events called disruptions. RE beams may significantly damage mach…",
       "question": "What is new, what evidence is shown, and what are the limitations?"
     }
   ]
