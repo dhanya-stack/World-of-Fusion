@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-17T11:56:04Z",
+  "updated": "2026-11-17T22:55:09Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
-      "title": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel - Interesting Engineering",
-      "date": "2026-11-16",
-      "region": "Global",
+      "title": "France launches roadmap for fusion energy development - World Nuclear News",
+      "date": "2026-11-17",
+      "region": "Europe · Global",
       "tag": "Global news",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmk0TmVKOGhvc1V5RVdxWUJIRWhQNDhiZjhsdXZoNjR5cVdsQkpkR2NwajNDd2Y3WXhOSEJJQjducTIyUjUzcW1BSmwxRDNmeGYwNEhMNGxoOW5oS2pIandqMW4zWjNGeGd1QU1rWnpXNnlfc3RVV21waDhjZHB1dlJGaVZKdzZZ?oc=5",
-      "summary": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel Interesting Engineering",
+      "source": "World Nuclear News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWo3MFAwNXVtUkNISVl6NHI4eFBRUkM4ME1nN3FhMmhmeVNpLTBIalNxd0xBNDFFRHJTd3BRVm41TENsdUxIS3FIYkRPbnVWVHItWV95bEJGMGZrb3pDMzhXRXJnY08wVk5uUjBDTmNqNmhHU2pIcG5Tc3BWTVlfMVBxUk5UYWU4bVppZ2pJVHE4U1c5NVcxMw?oc=5",
+      "summary": "France launches roadmap for fusion energy development World Nuclear News",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -30,6 +30,16 @@
       "source": "ITER",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBONGZGeFlHcFItVUozanZnV0hMNnBSX3pDZEtjeUgtNFV0dzM1UGNuZDdnRjgyU3RkNm5MeVAtQVRuQWNENDBQNjlobF95NzZoWjZBYml6c0lUbnlXTG5wMjczRElIM0l6Z1RwNWJtTmtRZHhYeTRHeQ?oc=5",
       "summary": "An international gathering on fusion in Vienna ITER",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "The 330-tonne magnet built to cage a 150-million-degree plasma - Interesting Engineering",
+      "date": "2026-11-14",
+      "region": "Global",
+      "tag": "Magnets",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkNJYmpyanNrZi14TUpuTjFDbi01M3ZINEhsWU5rWm91R2o4SGpOUWd1NHoyWG5GYnJKMEg4TlRoenRnNUNqMmxxeFlJclBDV2MtZGZvYmJTNVNKa0NNRXFQNmF2eHhjMHpTWmFsRkFkTFVXYllTU0MzTlFWaVViT3RGYi1abkh5TnRWMTd5NGYxZHNmUHBtdkhHcVBRSzl4MGNVZ09wYw?oc=5",
+      "summary": "The 330-tonne magnet built to cage a 150-million-degree plasma Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -160,16 +170,6 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzBReHlEQlBhX3BKVnNSQlhjZU5pLUV5MDk1TXRuMG5sbDhCVVBXUlJtUGh4ZzlQLVNCODFDNEdJc19FaUtuMjEzNVY1SHRlNjk5TjdCdkM2MXN2OXU3a2Z4eU1pSmRMY1B4dVV4d3ViSDZLVWVMQ3lxV3Fmb3h3ZXdYZWxYZ1My?oc=5",
       "summary": "MIT puts next-generation stellarator magnet through full-force test Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "US fusion reactor could unlock 24/7 power using helicon current drive - Interesting Engineering",
-      "date": "2026-11-03",
-      "region": "North America",
-      "tag": "Global news",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORFN5LWlZQWhDT1NwZ3UzcnNmdk95T0hYdEYtdWpHeG1wcEVvdW9aaU53dTVJZmJabnFOREZGckFnb3JYN1dHTWUzX2FYV1Z3a040ajNxeVU1eTFrazZfdDJJWGxCV25aRDIycXFRZjB3MUlhVkdLS1lIcjNxVi1mZDhRRQ?oc=5",
-      "summary": "US fusion reactor could unlock 24/7 power using helicon current drive Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
