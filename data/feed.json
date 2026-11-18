@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-18T11:47:16Z",
+  "updated": "2026-11-18T22:37:04Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
+    {
+      "title": "France releases report on nuclear project financing, announces 10-year fusion strategy - American Nuclear Society",
+      "date": "2026-11-18",
+      "region": "North America",
+      "tag": "Global news",
+      "source": "American Nuclear Society",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY01UOHFUcHJtdGtEcGI3cFVId0pNMDAxVmRQNE9LRENmSm5weENpa1JvRjlYQ2dmbzBNS0pIRkRnTURMNlpydGRVOUVnWGpxNktPbDh0ZlRoUmtzS0lnbS0wNG1KN2syaFJRMGdlbEp3RjlWcTltTVhuanp5SnBCZWwzNVJya1JkMlhkTE1xSHUwNHoxbThLQjc2NE1GYjVVLXpnX3M3c3FwSXk0c3hQYjNPOGFEWHZWNmtEZ2JBWGo?oc=5",
+      "summary": "France releases report on nuclear project financing, announces 10-year fusion strategy American Nuclear Society",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
     {
       "title": "France launches roadmap for fusion energy development - World Nuclear News",
       "date": "2026-11-17",
@@ -40,16 +50,6 @@
       "source": "ITER",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBONGZGeFlHcFItVUozanZnV0hMNnBSX3pDZEtjeUgtNFV0dzM1UGNuZDdnRjgyU3RkNm5MeVAtQVRuQWNENDBQNjlobF95NzZoWjZBYml6c0lUbnlXTG5wMjczRElIM0l6Z1RwNWJtTmtRZHhYeTRHeQ?oc=5",
       "summary": "An international gathering on fusion in Vienna ITER",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "The 330-tonne magnet built to cage a 150-million-degree plasma - Interesting Engineering",
-      "date": "2026-11-14",
-      "region": "Global",
-      "tag": "Magnets",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkNJYmpyanNrZi14TUpuTjFDbi01M3ZINEhsWU5rWm91R2o4SGpOUWd1NHoyWG5GYnJKMEg4TlRoenRnNUNqMmxxeFlJclBDV2MtZGZvYmJTNVNKa0NNRXFQNmF2eHhjMHpTWmFsRkFkTFVXYllTU0MzTlFWaVViT3RGYi1abkh5TnRWMTd5NGYxZHNmUHBtdkhHcVBRSzl4MGNVZ09wYw?oc=5",
-      "summary": "The 330-tonne magnet built to cage a 150-million-degree plasma Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
