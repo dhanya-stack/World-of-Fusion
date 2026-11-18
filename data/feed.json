@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T22:55:09Z",
+  "updated": "2026-11-18T11:47:16Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -10,6 +10,16 @@
       "source": "World Nuclear News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWo3MFAwNXVtUkNISVl6NHI4eFBRUkM4ME1nN3FhMmhmeVNpLTBIalNxd0xBNDFFRHJTd3BRVm41TENsdUxIS3FIYkRPbnVWVHItWV95bEJGMGZrb3pDMzhXRXJnY08wVk5uUjBDTmNqNmhHU2pIcG5Tc3BWTVlfMVBxUk5UYWU4bVppZ2pJVHE4U1c5NVcxMw?oc=5",
       "summary": "France launches roadmap for fusion energy development World Nuclear News",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel - Interesting Engineering",
+      "date": "2026-11-16",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmk0TmVKOGhvc1V5RVdxWUJIRWhQNDhiZjhsdXZoNjR5cVdsQkpkR2NwajNDd2Y3WXhOSEJJQjducTIyUjUzcW1BSmwxRDNmeGYwNEhMNGxoOW5oS2pIandqMW4zWjNGeGd1QU1rWnpXNnlfc3RVV21waDhjZHB1dlJGaVZKdzZZ?oc=5",
+      "summary": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -251,19 +261,39 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeFJiakN5S0ZGTnJ0MS1WcHY0YnRVR2stSUUxWlFvZDFhVUhPWWV2Uy1Kb3pKS1FvNzZ2bjFGYm85R0ZraDJzYUt2c0Uxclp4SDYxSVVzYWpncnAyaXMtUGJIbFNJN1JndDdsWmM4Y1ZIN2FEVDNpV2xIam9CZGNwRkNYNzM4emlNb29uNjRnT080MW02WjBCeC1TTGpoR0otSkhzOW9NTDlDcUNtRFZzZWNmNU55Nm1zN0stSUVjek1PNnhYTDYwUEFEalRORk13U2J3UkpBeFNmbzVCUi1LM0pDNjg3WjNwd0JB?oc=5",
       "summary": "PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls Nature World News",
       "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "Two fusion reactor designs team up to tackle fusion's biggest hurdles - Interesting Engineering",
-      "date": "2026-10-22",
-      "region": "Global",
-      "tag": "Global news",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkdtV25DNnlrbV9Bd2RTNGRDVTBmVGxMM1VYODFMcWp6QTR5VFl1bXk1Z1d1cFRNYmtXVUU0QkdlSVAtNlQ4SEQ0dFptd1ZtZ0J6a211Q0JvSkl6MTNQNkE0dG5POTNBYUlEWUQ2SHU2MEdlNnpnN2d1US1MWmU3eWViN1FWWmhFb1JLX2poUko?oc=5",
-      "summary": "Two fusion reactor designs team up to tackle fusion's biggest hurdles Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
     }
   ],
   "papers": [
+    {
+      "title": "Modeling of basic physics issues in toroidal pinches and tools for performance control",
+      "date": "2026-11-17",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.22435v1",
+      "authors": "S. Cappello, D. Bonfiglio, Di Giannatale et al.",
+      "summary": "Nonlinear modelling has improved significantly in dealing with physics issues encountered in magnetically confined toroidal pinches, such as the Reversed Field Pinch and Tokamak configurations. Here, recent results relevant to the…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Kinetic-Ballooning and Resistive X-Point Dynamics in Quasicontinuous Exhaust Tokamak Plasmas",
+      "date": "2026-11-16",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.21918v1",
+      "authors": "Kaiyu Zhang, Wladimir Zholobenko, Andreas Stegmeir et al.",
+      "summary": "We investigate quasicoherent modes (QCMs) and their interaction with scrape-off-layer (SOL) plasma blobs (filaments) in the type-I-ELM-free quasicontinuous exhaust (QCE) regime, extending the analysis in [K. Zhang et al., Phys. Re…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Collisionality scaling of the tokamak density limit",
+      "date": "2026-11-16",
+      "field": "Plasma physics",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.21899v1",
+      "authors": "A. D. Maris, C. Rea, A. Pau et al.",
+      "summary": "The threshold at which density-limiting plasma instabilities occur in tokamak fusion reactors is not well understood. Here, we present the first large-scale empirical evidence of a common collisionality threshold present across mu…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
     {
       "title": "Cold stellarator coils that outlast power plant lifetime",
       "date": "2026-11-16",
@@ -452,36 +482,6 @@
       "url": "http://arxiv.org/abs/2611.10870v1",
       "authors": "Xiaofan Xia, Qin Li, Wenlong Mou",
       "summary": "We study the problem of controlling instability in the Vlasov--Poisson plasma systems, a fundamental challenge for nuclear fusion control. Motivated by the partial observability of plasma states in practice, we investigate imitati…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "GUERNICA: A continuum kinetic code for neutral dynamics in fusion plasmas",
-      "date": "2026-11-06",
-      "field": "Simulation",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.10256v1",
-      "authors": "Jack Gabriel, Saskia Mordijck",
-      "summary": "We introduce GUERNICA, a GPU-accelerated continuum kinetic code for atomic hydrogen transport in fusion edge plasmas. It solves the Boltzmann equation with charge exchange, ionization, recombination and elastic neutral-neutral col…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Winding-Pack Quench Simulation of Stellarator Coils: Hydraulic Field-Network Coupling and Transverse Heat Conduction in OPENSC$^2$",
-      "date": "2026-11-05",
-      "field": "Stellarator",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.08084v1",
-      "authors": "Laura A. M. D'Angelo, Felix Warmer",
-      "summary": "Quench propagation in cable-in-conduit conductors is thermo-hydraulically driven, yet existing 1D models treat a conductor as one straight adiabatic cable with prescribed pressure and mass-flow boundaries, so secondary quenches an…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "The shear Alfvén continuum of optimized stellarators",
-      "date": "2026-11-04",
-      "field": "Stellarator",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.07182v1",
-      "authors": "Abdullah Hyder, Elizabeth Paul, Alexey Knyazev",
-      "summary": "The shear Alfvén continuum has been studied extensively in tokamaks, but its gap structure in modern optimized stellarators has received less attention, despite its importance for energetic-particle confinement in fusion pilot pla…",
       "question": "What is new, what evidence is shown, and what are the limitations?"
     }
   ]
