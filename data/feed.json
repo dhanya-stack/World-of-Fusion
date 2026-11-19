@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T11:44:20Z",
+  "updated": "2026-11-19T22:40:35Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -10,16 +10,6 @@
       "source": "American Nuclear Society",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY01UOHFUcHJtdGtEcGI3cFVId0pNMDAxVmRQNE9LRENmSm5weENpa1JvRjlYQ2dmbzBNS0pIRkRnTURMNlpydGRVOUVnWGpxNktPbDh0ZlRoUmtzS0lnbS0wNG1KN2syaFJRMGdlbEp3RjlWcTltTVhuanp5SnBCZWwzNVJya1JkMlhkTE1xSHUwNHoxbThLQjc2NE1GYjVVLXpnX3M3c3FwSXk0c3hQYjNPOGFEWHZWNmtEZ2JBWGo?oc=5",
       "summary": "France releases report on nuclear project financing, announces 10-year fusion strategy American Nuclear Society",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "France launches roadmap for fusion energy development - World Nuclear News",
-      "date": "2026-11-17",
-      "region": "Europe · Global",
-      "tag": "Global news",
-      "source": "World Nuclear News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWo3MFAwNXVtUkNISVl6NHI4eFBRUkM4ME1nN3FhMmhmeVNpLTBIalNxd0xBNDFFRHJTd3BRVm41TENsdUxIS3FIYkRPbnVWVHItWV95bEJGMGZrb3pDMzhXRXJnY08wVk5uUjBDTmNqNmhHU2pIcG5Tc3BWTVlfMVBxUk5UYWU4bVppZ2pJVHE4U1c5NVcxMw?oc=5",
-      "summary": "France launches roadmap for fusion energy development World Nuclear News",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -260,6 +250,16 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkdtV25DNnlrbV9Bd2RTNGRDVTBmVGxMM1VYODFMcWp6QTR5VFl1bXk1Z1d1cFRNYmtXVUU0QkdlSVAtNlQ4SEQ0dFptd1ZtZ0J6a211Q0JvSkl6MTNQNkE0dG5POTNBYUlEWUQ2SHU2MEdlNnpnN2d1US1MWmU3eWViN1FWWmhFb1JLX2poUko?oc=5",
       "summary": "Two fusion reactor designs team up to tackle fusion's biggest hurdles Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Princeton Lab Calculates a Heat-First Route to Fusion Ignition That Could Use Less Energy, but It Has Not Been Tested - Nature World News",
+      "date": "2026-10-21",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Nature World News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR0FHbVJWS0gwZjlneVpzbHBvU1hPQ0hSMzlfYkhSdDNDeXV3WVNxQ0V1Z3FjYm16WDlWZmNwZkhjLXQzaXVBOUhab0oxWk5DdkZ1bG5JVWVkaU1YdDl5YmJVS0JWUHgwaC1ZSDhuOS03SGFRcmF2LTJ6WGNUSWI1VVJkZDg5RUdFXzZRN1E3b1h0bmNTSmIwNmtxSkQwc0g2RGJCMDVIV0pUTl9tT0pwaVRHcldVMmYwZUlYdWlWcW14NDhvUVlFeHh4azdKdWVnRzJXNXd6cEdRMm1SdDJsMlFBeXJrblpkaFVF?oc=5",
+      "summary": "Princeton Lab Calculates a Heat-First Route to Fusion Ignition That Could Use Less Energy, but It Has Not Been Tested Nature World News",
       "why": "Aggregation: check the original reporting and publication date."
     }
   ],
