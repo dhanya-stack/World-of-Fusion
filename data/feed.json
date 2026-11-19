@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-18T22:37:04Z",
+  "updated": "2026-11-19T11:44:20Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
       "title": "France releases report on nuclear project financing, announces 10-year fusion strategy - American Nuclear Society",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "region": "North America",
       "tag": "Global news",
       "source": "American Nuclear Society",
@@ -123,26 +123,6 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
-      "title": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F - Interesting Engineering",
-      "date": "2026-11-05",
-      "region": "Global",
-      "tag": "Global news",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHVVc3pyWEJpR005cV9NUUtLVnluRk9XTVEwaTQzWXBwRnJnaWQxLTZEZkFHNWZEdnFfQldfZE9PWUgteUlSYm1wTE02WkNJVmFVem9QQ2JUYk1BRm96am51U1FOZThxbXNXR2RibnNVZjZKQWMyanZJZDh2NXhQUWRmN0NtUTEtUFFTSm53NHFBUTR6Y0s0bF9ybmhBQTJlRndGT2Y0U09ZamVidHZzNnNWQUZqS2N4dEE?oc=5",
-      "summary": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "Tag: plasma facing components - American Nuclear Society",
-      "date": "2026-11-05",
-      "region": "North America",
-      "tag": "Plasma",
-      "source": "American Nuclear Society",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55eDVHMHdQUk9CUi1Tc251Y0lHM3JZLWdEM0dwSzhxQWhiZGlocjVTbXM4RVVGbFNIbDZLS1ZGbzNzUkxpWlFucUR4bDhFaVhoYl9mNG1JVkdJYUVQZ29RWEZENEJNTlByOEE?oc=5",
-      "summary": "Tag: plasma facing components American Nuclear Society",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
       "title": "Europe starts new buildings for ITER heating systems",
       "date": "2026-11-05",
       "region": "Europe",
@@ -161,6 +141,16 @@
       "url": "https://www.ans.org/news/2026-11-05/article-8560/3dprinted-tungsten-tiles-tested-at-diiid/",
       "summary": "Printed tungsten components survived plasma exposure in a materials experiment.",
       "why": "A direct link between materials processing, quality and plasma-facing component performance."
+    },
+    {
+      "title": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F - Interesting Engineering",
+      "date": "2026-11-04",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObFhveW1kLThRdUVhV2RJcXE2cEd6N05RUEV4TWFuY2FYRnR0TkZ2MGZxVHhxNzM4ZTNNUm5XRXdMOTRWbmFYdklLTEJueExlWTlIWlB4Y3FhZnhQQkdJbHpFdXdUQVF5NzY1MGF4cDNkcXBiOFZsTGJuME12YUFyd0x5LXU?oc=5",
+      "summary": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
     },
     {
       "title": "FIA Leads Fusion Trade Mission to Japan - Fusion Industry Association",
@@ -261,9 +251,69 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeFJiakN5S0ZGTnJ0MS1WcHY0YnRVR2stSUUxWlFvZDFhVUhPWWV2Uy1Kb3pKS1FvNzZ2bjFGYm85R0ZraDJzYUt2c0Uxclp4SDYxSVVzYWpncnAyaXMtUGJIbFNJN1JndDdsWmM4Y1ZIN2FEVDNpV2xIam9CZGNwRkNYNzM4emlNb29uNjRnT080MW02WjBCeC1TTGpoR0otSkhzOW9NTDlDcUNtRFZzZWNmNU55Nm1zN0stSUVjek1PNnhYTDYwUEFEalRORk13U2J3UkpBeFNmbzVCUi1LM0pDNjg3WjNwd0JB?oc=5",
       "summary": "PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls Nature World News",
       "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Two fusion reactor designs team up to tackle fusion's biggest hurdles - Interesting Engineering",
+      "date": "2026-10-22",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkdtV25DNnlrbV9Bd2RTNGRDVTBmVGxMM1VYODFMcWp6QTR5VFl1bXk1Z1d1cFRNYmtXVUU0QkdlSVAtNlQ4SEQ0dFptd1ZtZ0J6a211Q0JvSkl6MTNQNkE0dG5POTNBYUlEWUQ2SHU2MEdlNnpnN2d1US1MWmU3eWViN1FWWmhFb1JLX2poUko?oc=5",
+      "summary": "Two fusion reactor designs team up to tackle fusion's biggest hurdles Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
     }
   ],
   "papers": [
+    {
+      "title": "The role of externally-driven density fluctuations in the enhancement of beam spray",
+      "date": "2026-11-18",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.24914v1",
+      "authors": "Kyle R. McMillen, Ian D. Min-Roberts, Russell K. Follett et al.",
+      "summary": "Speckled laser beams, commonly used to ionize and heat plasma for inertial confinement fusion and high-energy-density experiments, are shown to drive long-wavelength plasma-density fluctuations that induce beam spray in other lase…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Moment-Fourier approach to parallel closures and transport for a toroidally confined multi-ion plasma",
+      "date": "2026-11-18",
+      "field": "Diagnostics",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.24293v1",
+      "authors": "Jeong-Young Ji",
+      "summary": "We develop a multi-ion closure framework for tokamak plasmas by solving the drift-kinetic equation using the moment-Fourier method. The model extends our previous single-ion formulation to plasmas containing multiple ion species a…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "DIVO: a direct divertor configuration plasma start-up scheme aimed at tokamak fusion reactors",
+      "date": "2026-11-18",
+      "field": "Materials",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.23895v1",
+      "authors": "Wenbin Liu, Jinping Qian, Long Zeng et al.",
+      "summary": "The tokamak, one of the mainstream approaches to magnetic confinement in nuclear fusion devices, will be the first approach to reach reactor class prototyping. Plasma start-up is expected to be more challenging in large supercondu…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Analytic guiding center formulas for bounce-transit motion in a concentric circular, finite inverse aspect ratio tokamak geometry",
+      "date": "2026-11-17",
+      "field": "Plasma physics",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.23481v1",
+      "authors": "Cole D. Stephens, Xavier Garbet, Frank Jenko",
+      "summary": "Bounce-transit motion in concentric circular magnetic geometry is typically analyzed in the limit that the inverse aspect ratio, $\\varepsilon$, is small. We prove that this approximation is not necessary to study a concentric circ…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Effect of scrape-off losses and current flattening on runaway electron dynamics in ARC",
+      "date": "2026-11-17",
+      "field": "Materials",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.23412v1",
+      "authors": "William Weeks, István Pusztai, Ida Ekmark et al.",
+      "summary": "Disruptions in high-current tokamaks, such as ARC, may result in megaampere-scale runaway electron currents. In this work, we evaluate mitigation strategies via massive material injection, accounting for the combined impact of scr…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
     {
       "title": "Modeling of basic physics issues in toroidal pinches and tools for performance control",
       "date": "2026-11-17",
@@ -432,56 +482,6 @@
       "url": "http://arxiv.org/abs/2611.13179v1",
       "authors": "K. Lee, M. Carpita, C. Theiler et al.",
       "summary": "Stationary power exhaust in the X-Point Target (XPT) divertor configuration is investigated in high-power ($2.5\\,\\text{MW}$) TCV L-mode discharges, in which the Lengyel detachment scaling metric $P_{\\text{SOL}}B_{0}/(R_{0}n_{e,\\te…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "CoilStellaration: A Dataset and Benchmark for Engineering-Aware Stellarator Coilset Generation",
-      "date": "2026-11-09",
-      "field": "Stellarator",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.12689v1",
-      "authors": "Jan-Hendrik Ewers, Santiago A. Cadena, Nicolò Foppiani et al.",
-      "summary": "Stellarators are fusion devices that use externally generated, three-dimensional magnetic fields to confine hot plasma and offer a promising route to commercial fusion. Their electromagnetic coils pose a challenging design problem…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Heterogeneous Acceleration of TRIMEG++ code using OpenMP for Gyrokinetic Simulations",
-      "date": "2026-11-09",
-      "field": "Simulation",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.12209v1",
-      "authors": "Nicola Noventa, Giorgio Daneri, Zhixin Lu et al.",
-      "summary": "Turbulent transport largely determines the performance of magnetic-confinement fusion devices such as tokamaks, and gyrokinetic particle-in-cell (PIC) simulations are a principal tool to predict it. Advancing up to hundreds of mil…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Regulating pedestal pressure profile by microtearing modes in the EAST tokamak",
-      "date": "2026-11-08",
-      "field": "Simulation",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.11227v1",
-      "authors": "Jinze Shi, Youwen Sun, Kaixuan Fan et al.",
-      "summary": "The pedestal pressure profile plays a critical role in determining the overall confinement of tokamak fusion plasmas. This letter reports the first evidence on regulating pedestal pressure profile by microtearing modes (MTMs) via…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Analysis of Solid Boron Injection for ITER",
-      "date": "2026-11-08",
-      "field": "Stellarator",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.11054v1",
-      "authors": "Florian Effenberg, Joseph A. Snipes, Federico Nespoli et al.",
-      "summary": "Since ITER will now operate with a full tungsten divertor and first wall, the ITER Organization is considering boron wall conditioning schemes to getter oxygen and reduce tungsten sputtering to avoid excessive radiation to ensure…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas",
-      "date": "2026-11-07",
-      "field": "Diagnostics",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.10870v1",
-      "authors": "Xiaofan Xia, Qin Li, Wenlong Mou",
-      "summary": "We study the problem of controlling instability in the Vlasov--Poisson plasma systems, a fundamental challenge for nuclear fusion control. Motivated by the partial observability of plasma states in practice, we investigate imitati…",
       "question": "What is new, what evidence is shown, and what are the limitations?"
     }
   ]
