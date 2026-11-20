@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-20T11:44:52Z",
+  "updated": "2026-11-20T22:15:04Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
+    {
+      "title": "Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle - Phys.org",
+      "date": "2026-11-20",
+      "region": "Global",
+      "tag": "Plasma",
+      "source": "Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBITFpHS0hrdUlRSTJWUHNLVnEwSmZtLW5kVW5DUnB3WnpaLTllU3IwZHF1bmFVckhPWDhmTDE4WHRDbDg5X1NNejIzWjlXQjNTWEozNVpPZ25rckp2bGtDd0VVSVBmQWhGOGZwZGdmbnJpcXhzdEdzOQ?oc=5",
+      "summary": "Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle Phys.org",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
     {
       "title": "France releases report on nuclear project financing, announces 10-year fusion strategy - American Nuclear Society",
       "date": "2026-11-19",
@@ -10,6 +20,16 @@
       "source": "American Nuclear Society",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY01UOHFUcHJtdGtEcGI3cFVId0pNMDAxVmRQNE9LRENmSm5weENpa1JvRjlYQ2dmbzBNS0pIRkRnTURMNlpydGRVOUVnWGpxNktPbDh0ZlRoUmtzS0lnbS0wNG1KN2syaFJRMGdlbEp3RjlWcTltTVhuanp5SnBCZWwzNVJya1JkMlhkTE1xSHUwNHoxbThLQjc2NE1GYjVVLXpnX3M3c3FwSXk0c3hQYjNPOGFEWHZWNmtEZ2JBWGo?oc=5",
       "summary": "France releases report on nuclear project financing, announces 10-year fusion strategy American Nuclear Society",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "France launches roadmap for fusion energy development - World Nuclear News",
+      "date": "2026-11-17",
+      "region": "Europe · Global",
+      "tag": "Global news",
+      "source": "World Nuclear News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWo3MFAwNXVtUkNISVl6NHI4eFBRUkM4ME1nN3FhMmhmeVNpLTBIalNxd0xBNDFFRHJTd3BRVm41TENsdUxIS3FIYkRPbnVWVHItWV95bEJGMGZrb3pDMzhXRXJnY08wVk5uUjBDTmNqNmhHU2pIcG5Tc3BWTVlfMVBxUk5UYWU4bVppZ2pJVHE4U1c5NVcxMw?oc=5",
+      "summary": "France launches roadmap for fusion energy development World Nuclear News",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -23,16 +43,6 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
-      "title": "France adopts a national strategy for fusion - ITER",
-      "date": "2026-11-16",
-      "region": "Europe · Global",
-      "tag": "Global news",
-      "source": "ITER",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CZ3pxLXVLQVJwSVBHYmRsaEdsd1FVYXRJc0J2eWNKdFRlazMyeVo4NXI5LTFYc3JibTRkNTI4ank5eE5jZ0YyTVNGQjBhZEZUZml2Wlp3NHNOWEFmRVFzbU4zcUhvZUhrRlgxeGo3Tko5WlRBQ0FseFpB?oc=5",
-      "summary": "France adopts a national strategy for fusion ITER",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
       "title": "An international gathering on fusion in Vienna - ITER",
       "date": "2026-11-16",
       "region": "Europe · Global",
@@ -40,6 +50,16 @@
       "source": "ITER",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBONGZGeFlHcFItVUozanZnV0hMNnBSX3pDZEtjeUgtNFV0dzM1UGNuZDdnRjgyU3RkNm5MeVAtQVRuQWNENDBQNjlobF95NzZoWjZBYml6c0lUbnlXTG5wMjczRElIM0l6Z1RwNWJtTmtRZHhYeTRHeQ?oc=5",
       "summary": "An international gathering on fusion in Vienna ITER",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "France adopts a national strategy for fusion - ITER",
+      "date": "2026-11-16",
+      "region": "Europe · Global",
+      "tag": "Global news",
+      "source": "ITER",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CZ3pxLXVLQVJwSVBHYmRsaEdsd1FVYXRJc0J2eWNKdFRlazMyeVo4NXI5LTFYc3JibTRkNTI4ank5eE5jZ0YyTVNGQjBhZEZUZml2Wlp3NHNOWEFmRVFzbU4zcUhvZUhrRlgxeGo3Tko5WlRBQ0FseFpB?oc=5",
+      "summary": "France adopts a national strategy for fusion ITER",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -240,26 +260,6 @@
       "source": "Nature World News",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdEFDbWtmbUZVc2U4VTNFQzh4dVRRN1NKTm1ZUTBZbEJ4aVR0dHBhR2VjZkRRZGlya0NNZHRUcUZxSzFtMGlQWC1MWE5yZlJoam1oY05CUzA4NFo0T0huM2twbENPUHgtYzRVMV9DTXlCWlIzU0ItZlZYd2dNS3NpZjFvNXIwN3JCS1ZjWm1vWlRkMWxxQ3RxeGhYd3NrRXBmTzlqMmN6QmhYRk1YcXI2d3h1NEkwZVh3bHg5Ty16X2dpZW01cGdkcGpwQXprVjlCRkFlZWNiYjdTdHY3ZFA2bVpDaw?oc=5",
       "summary": "Could Fusion Plants Pay for Themselves With Gold? A US Startup Claims It Turned Mercury Into Gold, but Key Data Are Missing Nature World News",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls - Nature World News",
-      "date": "2026-10-25",
-      "region": "North America",
-      "tag": "Materials",
-      "source": "Nature World News",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeFJiakN5S0ZGTnJ0MS1WcHY0YnRVR2stSUUxWlFvZDFhVUhPWWV2Uy1Kb3pKS1FvNzZ2bjFGYm85R0ZraDJzYUt2c0Uxclp4SDYxSVVzYWpncnAyaXMtUGJIbFNJN1JndDdsWmM4Y1ZIN2FEVDNpV2xIam9CZGNwRkNYNzM4emlNb29uNjRnT080MW02WjBCeC1TTGpoR0otSkhzOW9NTDlDcUNtRFZzZWNmNU55Nm1zN0stSUVjek1PNnhYTDYwUEFEalRORk13U2J3UkpBeFNmbzVCUi1LM0pDNjg3WjNwd0JB?oc=5",
-      "summary": "PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls Nature World News",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "Two fusion reactor designs team up to tackle fusion's biggest hurdles - Interesting Engineering",
-      "date": "2026-10-22",
-      "region": "Global",
-      "tag": "Global news",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkdtV25DNnlrbV9Bd2RTNGRDVTBmVGxMM1VYODFMcWp6QTR5VFl1bXk1Z1d1cFRNYmtXVUU0QkdlSVAtNlQ4SEQ0dFptd1ZtZ0J6a211Q0JvSkl6MTNQNkE0dG5POTNBYUlEWUQ2SHU2MEdlNnpnN2d1US1MWmU3eWViN1FWWmhFb1JLX2poUko?oc=5",
-      "summary": "Two fusion reactor designs team up to tackle fusion's biggest hurdles Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
     }
   ],
