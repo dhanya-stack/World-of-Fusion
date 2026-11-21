@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T11:09:31Z",
+  "updated": "2026-11-21T20:54:56Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -14,22 +14,12 @@
     },
     {
       "title": "France releases report on nuclear project financing, announces 10-year fusion strategy - American Nuclear Society",
-      "date": "2026-11-19",
+      "date": "2026-11-18",
       "region": "North America",
       "tag": "Global news",
       "source": "American Nuclear Society",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY01UOHFUcHJtdGtEcGI3cFVId0pNMDAxVmRQNE9LRENmSm5weENpa1JvRjlYQ2dmbzBNS0pIRkRnTURMNlpydGRVOUVnWGpxNktPbDh0ZlRoUmtzS0lnbS0wNG1KN2syaFJRMGdlbEp3RjlWcTltTVhuanp5SnBCZWwzNVJya1JkMlhkTE1xSHUwNHoxbThLQjc2NE1GYjVVLXpnX3M3c3FwSXk0c3hQYjNPOGFEWHZWNmtEZ2JBWGo?oc=5",
       "summary": "France releases report on nuclear project financing, announces 10-year fusion strategy American Nuclear Society",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "France launches roadmap for fusion energy development - World Nuclear News",
-      "date": "2026-11-17",
-      "region": "Europe · Global",
-      "tag": "Global news",
-      "source": "World Nuclear News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWo3MFAwNXVtUkNISVl6NHI4eFBRUkM4ME1nN3FhMmhmeVNpLTBIalNxd0xBNDFFRHJTd3BRVm41TENsdUxIS3FIYkRPbnVWVHItWV95bEJGMGZrb3pDMzhXRXJnY08wVk5uUjBDTmNqNmhHU2pIcG5Tc3BWTVlfMVBxUk5UYWU4bVppZ2pJVHE4U1c5NVcxMw?oc=5",
-      "summary": "France launches roadmap for fusion energy development World Nuclear News",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -260,6 +250,16 @@
       "source": "Nature World News",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdEFDbWtmbUZVc2U4VTNFQzh4dVRRN1NKTm1ZUTBZbEJ4aVR0dHBhR2VjZkRRZGlya0NNZHRUcUZxSzFtMGlQWC1MWE5yZlJoam1oY05CUzA4NFo0T0huM2twbENPUHgtYzRVMV9DTXlCWlIzU0ItZlZYd2dNS3NpZjFvNXIwN3JCS1ZjWm1vWlRkMWxxQ3RxeGhYd3NrRXBmTzlqMmN6QmhYRk1YcXI2d3h1NEkwZVh3bHg5Ty16X2dpZW01cGdkcGpwQXprVjlCRkFlZWNiYjdTdHY3ZFA2bVpDaw?oc=5",
       "summary": "Could Fusion Plants Pay for Themselves With Gold? A US Startup Claims It Turned Mercury Into Gold, but Key Data Are Missing Nature World News",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls - Nature World News",
+      "date": "2026-10-25",
+      "region": "North America",
+      "tag": "Materials",
+      "source": "Nature World News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeFJiakN5S0ZGTnJ0MS1WcHY0YnRVR2stSUUxWlFvZDFhVUhPWWV2Uy1Kb3pKS1FvNzZ2bjFGYm85R0ZraDJzYUt2c0Uxclp4SDYxSVVzYWpncnAyaXMtUGJIbFNJN1JndDdsWmM4Y1ZIN2FEVDNpV2xIam9CZGNwRkNYNzM4emlNb29uNjRnT080MW02WjBCeC1TTGpoR0otSkhzOW9NTDlDcUNtRFZzZWNmNU55Nm1zN0stSUVjek1PNnhYTDYwUEFEalRORk13U2J3UkpBeFNmbzVCUi1LM0pDNjg3WjNwd0JB?oc=5",
+      "summary": "PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls Nature World News",
       "why": "Aggregation: check the original reporting and publication date."
     }
   ],
