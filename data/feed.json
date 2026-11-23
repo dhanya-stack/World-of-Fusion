@@ -1,7 +1,17 @@
 {
-  "updated": "2026-11-22T21:05:35Z",
+  "updated": "2026-11-23T12:52:07Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
+    {
+      "title": "Comment: Fusion hiring boom opens doors to engineers from other sectors - The Engineer",
+      "date": "2026-11-23",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "The Engineer",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYjBEVS0ta0xTNFl5Rmp4RkdtN2lMdjRqRjhOYi12dU5TdVk4LUdKVjZjWHR0Q3dPZ3lycnA2S3BXRURFWVc3QmNmdENydzEtMVZmMk5MTXl3M1N3V2xfS2pXZThyXzFuVmFzR3hfWnFaeUp2cDdOTVpfbVk4cDQ4QnpVWU5IV0NqcW5LMl9vTmpBTGNvVDNNakZ3Y2JSTktmYm90d01R?oc=5",
+      "summary": "Comment: Fusion hiring boom opens doors to engineers from other sectors The Engineer",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
     {
       "title": "Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle - Phys.org",
       "date": "2026-11-20",
@@ -20,6 +30,16 @@
       "source": "American Nuclear Society",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY01UOHFUcHJtdGtEcGI3cFVId0pNMDAxVmRQNE9LRENmSm5weENpa1JvRjlYQ2dmbzBNS0pIRkRnTURMNlpydGRVOUVnWGpxNktPbDh0ZlRoUmtzS0lnbS0wNG1KN2syaFJRMGdlbEp3RjlWcTltTVhuanp5SnBCZWwzNVJya1JkMlhkTE1xSHUwNHoxbThLQjc2NE1GYjVVLXpnX3M3c3FwSXk0c3hQYjNPOGFEWHZWNmtEZ2JBWGo?oc=5",
       "summary": "France releases report on nuclear project financing, announces 10-year fusion strategy American Nuclear Society",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "France launches roadmap for fusion energy development - World Nuclear News",
+      "date": "2026-11-17",
+      "region": "Europe · Global",
+      "tag": "Global news",
+      "source": "World Nuclear News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWo3MFAwNXVtUkNISVl6NHI4eFBRUkM4ME1nN3FhMmhmeVNpLTBIalNxd0xBNDFFRHJTd3BRVm41TENsdUxIS3FIYkRPbnVWVHItWV95bEJGMGZrb3pDMzhXRXJnY08wVk5uUjBDTmNqNmhHU2pIcG5Tc3BWTVlfMVBxUk5UYWU4bVppZ2pJVHE4U1c5NVcxMw?oc=5",
+      "summary": "France launches roadmap for fusion energy development World Nuclear News",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -241,29 +261,39 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2ZKd29SUE10aDczZlMyaW9JYVpNVlRib1g5WGM4eHRNNnBYUkc5U3BVWnljT0VlWDVLTTR0clZ6US1WNW1iLV9kMUFIUUpHenZDZGVBMzEyTWN3OEktaGJlNENSRmdLNlNLX0lpZDdZNGZvNVozVnBvZi0tNnBPendCR19YWWcwdHpjVTRBQVVRVkl0NUlaVGdlR00yY0RYVTgtSXl0NU1RbEhvTXBrNDRCcnppcjZOX0hoZUplT1BtcVk1czUwRkk2OUpyYndQTHNxRQ?oc=5",
       "summary": "FIA and J-Fusion Announce Partnership as Japan Accelerates Push to Commercial Fusion Deployment Fusion Industry Association",
       "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "Could Fusion Plants Pay for Themselves With Gold? A US Startup Claims It Turned Mercury Into Gold, but Key Data Are Missing - Nature World News",
-      "date": "2026-10-26",
-      "region": "North America",
-      "tag": "Global news",
-      "source": "Nature World News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdEFDbWtmbUZVc2U4VTNFQzh4dVRRN1NKTm1ZUTBZbEJ4aVR0dHBhR2VjZkRRZGlya0NNZHRUcUZxSzFtMGlQWC1MWE5yZlJoam1oY05CUzA4NFo0T0huM2twbENPUHgtYzRVMV9DTXlCWlIzU0ItZlZYd2dNS3NpZjFvNXIwN3JCS1ZjWm1vWlRkMWxxQ3RxeGhYd3NrRXBmTzlqMmN6QmhYRk1YcXI2d3h1NEkwZVh3bHg5Ty16X2dpZW01cGdkcGpwQXprVjlCRkFlZWNiYjdTdHY3ZFA2bVpDaw?oc=5",
-      "summary": "Could Fusion Plants Pay for Themselves With Gold? A US Startup Claims It Turned Mercury Into Gold, but Key Data Are Missing Nature World News",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls - Nature World News",
-      "date": "2026-10-25",
-      "region": "North America",
-      "tag": "Materials",
-      "source": "Nature World News",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeFJiakN5S0ZGTnJ0MS1WcHY0YnRVR2stSUUxWlFvZDFhVUhPWWV2Uy1Kb3pKS1FvNzZ2bjFGYm85R0ZraDJzYUt2c0Uxclp4SDYxSVVzYWpncnAyaXMtUGJIbFNJN1JndDdsWmM4Y1ZIN2FEVDNpV2xIam9CZGNwRkNYNzM4emlNb29uNjRnT080MW02WjBCeC1TTGpoR0otSkhzOW9NTDlDcUNtRFZzZWNmNU55Nm1zN0stSUVjek1PNnhYTDYwUEFEalRORk13U2J3UkpBeFNmbzVCUi1LM0pDNjg3WjNwd0JB?oc=5",
-      "summary": "PPPL's Tungsten Warning Matters Most for ITER and Other Fusion Machines Already Committed to Tungsten Walls Nature World News",
-      "why": "Aggregation: check the original reporting and publication date."
     }
   ],
   "papers": [
+    {
+      "title": "Hot-Layer Ignition in High-Gain Inertial Confinement Fusion",
+      "date": "2026-11-20",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.27760v1",
+      "authors": "M. Lourmande, B. Canaud",
+      "summary": "Ignition of the shocked deuterium tritium shell is identified during the thermonuclear combustion of very high-gain targets in inertial confinement fusion (ICF). This mechanism is due to the local energy deposition of the fusion a…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Edge transport mechanisms in small-ELM and type-I ELM regimes at JET using global gyrokinetic simulations",
+      "date": "2026-11-20",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.27566v1",
+      "authors": "Mattia Dicorato, Jeronimo Garcia, Tobias Görler et al.",
+      "summary": "To explore tokamak operating regimes that combine high energy confinement with edge dynamics relevant for ITER, new regimes with small edge-localized modes (ELMs), referred to as baseline small-ELM (BSE), have been obtained at JET…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "A conservative latent neural ODE for stiff collisional-radiative plasma kinetics",
+      "date": "2026-11-20",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.27027v1",
+      "authors": "Xuping Xie, Xianzhu Tang, Qi Tang",
+      "summary": "Collisional-radiative (CR) models govern the non equilibrium population kinetics of partially ionized plasmas and are a dominant cost in integrated edge and divertor plasma simulations, where a stiff system of dozens to thousands…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
     {
       "title": "How zonal states beat-driven by Alfven eigenmodes stabilize micro-turbulence in tokamak plasmas",
       "date": "2026-11-19",
@@ -452,36 +482,6 @@
       "url": "http://arxiv.org/abs/2611.15095v1",
       "authors": "Shinsuke Fujioka, Yuji Takagi, Akira Sasaki et al.",
       "summary": "Opacity of mid- and high-$Z$ plasmas is dominated by thousands of overlapping spectral lines. Examples are laser-produced plasmas for extreme-ultraviolet (EUV) lithography, inertial-fusion hohlraums, and stellar interiors. Radiati…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Development of Sapphire-Based Solid-State Neutron Detectors for Fusion Environments",
-      "date": "2026-11-10",
-      "field": "Diagnostics",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.14745v1",
-      "authors": "Matteo Hakeem Kushoroa, Stephanie Cancelli, Gabriele Croci et al.",
-      "summary": "Single-crystal diamond is the reference solid-state technology for fast neutron detection in fusion devices. Despite this, its complex manufacturing increases their costs and puts limitations on their geometry. Moreover, the limit…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Analytic Solution to Cumulative Coulomb Scattering in Boltzmann Theory",
-      "date": "2026-11-10",
-      "field": "Plasma physics",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.13793v1",
-      "authors": "Tie-Huai Zhang, Wei-Min Wang, Zi-Yan Zhang et al.",
-      "summary": "In plasmas, frequent soft Coulomb collisions gradually transfer energy and momentum, whereas a single close collision can change both abruptly and redirect a particle. This coexistence can shape runaway-electron avalanches in toka…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Development of a versatile modular system to study the ablation and plume expansion in a thin film",
-      "date": "2026-11-10",
-      "field": "Diagnostics",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.13570v1",
-      "authors": "Renjith Kumar R, Pabitra Kumar Mishra, B R Geethika et al.",
-      "summary": "Time-resolved investigation of laser ablation of thin films requires stable, repeatable, and efficient experimental environment. Conventional approaches often rely on multiple laser-ablation shots acquired at different delay times…",
       "question": "What is new, what evidence is shown, and what are the limitations?"
     }
   ]
