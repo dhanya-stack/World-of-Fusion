@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T12:52:07Z",
+  "updated": "2026-11-24T02:14:47Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -40,6 +40,16 @@
       "source": "World Nuclear News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWo3MFAwNXVtUkNISVl6NHI4eFBRUkM4ME1nN3FhMmhmeVNpLTBIalNxd0xBNDFFRHJTd3BRVm41TENsdUxIS3FIYkRPbnVWVHItWV95bEJGMGZrb3pDMzhXRXJnY08wVk5uUjBDTmNqNmhHU2pIcG5Tc3BWTVlfMVBxUk5UYWU4bVppZ2pJVHE4U1c5NVcxMw?oc=5",
       "summary": "France launches roadmap for fusion energy development World Nuclear News",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel - Interesting Engineering",
+      "date": "2026-11-16",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmk0TmVKOGhvc1V5RVdxWUJIRWhQNDhiZjhsdXZoNjR5cVdsQkpkR2NwajNDd2Y3WXhOSEJJQjducTIyUjUzcW1BSmwxRDNmeGYwNEhMNGxoOW5oS2pIandqMW4zWjNGeGd1QU1rWnpXNnlfc3RVV21waDhjZHB1dlJGaVZKdzZZ?oc=5",
+      "summary": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -143,6 +153,16 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
+      "title": "MIT puts next-generation stellarator magnet through full-force test - Interesting Engineering",
+      "date": "2026-11-05",
+      "region": "North America",
+      "tag": "Magnets",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzBReHlEQlBhX3BKVnNSQlhjZU5pLUV5MDk1TXRuMG5sbDhCVVBXUlJtUGh4ZzlQLVNCODFDNEdJc19FaUtuMjEzNVY1SHRlNjk5TjdCdkM2MXN2OXU3a2Z4eU1pSmRMY1B4dVV4d3ViSDZLVWVMQ3lxV3Fmb3h3ZXdYZWxYZ1My?oc=5",
+      "summary": "MIT puts next-generation stellarator magnet through full-force test Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
       "title": "Europe starts new buildings for ITER heating systems",
       "date": "2026-11-05",
       "region": "Europe",
@@ -190,16 +210,6 @@
       "source": "Fusion Industry Association",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS21MVFdKQWRIbkpVRjJXX1NScDNrRU80ZmN0VFlZVGpMQ3pQc3MzWWZNXzJYMDBkNzJuVlF3cnR6SDN4Zmd2OUNtdVh6dV9FYXBFQ3FGazVCYXY3b1BSSDFPTjh2NF9mWXhjd0FCXzgwSHY2YUtrMV84NklKV3dWb3ZKaUtqYVJ6cWc?oc=5",
       "summary": "FIA Leads Fusion Trade Mission to Japan Fusion Industry Association",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "MIT puts next-generation stellarator magnet through full-force test - Interesting Engineering",
-      "date": "2026-11-04",
-      "region": "North America",
-      "tag": "Magnets",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzBReHlEQlBhX3BKVnNSQlhjZU5pLUV5MDk1TXRuMG5sbDhCVVBXUlJtUGh4ZzlQLVNCODFDNEdJc19FaUtuMjEzNVY1SHRlNjk5TjdCdkM2MXN2OXU3a2Z4eU1pSmRMY1B4dVV4d3ViSDZLVWVMQ3lxV3Fmb3h3ZXdYZWxYZ1My?oc=5",
-      "summary": "MIT puts next-generation stellarator magnet through full-force test Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -251,19 +261,19 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DSTZibTRDTUxqSm90R003aHM0ZVI5QTlLWjQzQU9TU1FuemRIbjB6WkVHYzgzTTlVRjc2VXd3dUxDZTF1RWNGOVZZNnEzR3dzRmFkSXFHQUc0NHZPZm5PSnljdEJyWktlYXJUWW85bHo1OTVxek9NOWZ5bw?oc=5",
       "summary": "Radio waves drive a fusion plasma current that could help reactors run continuously Phys.org",
       "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "FIA and J-Fusion Announce Partnership as Japan Accelerates Push to Commercial Fusion Deployment - Fusion Industry Association",
-      "date": "2026-10-27",
-      "region": "Asia",
-      "tag": "Collaboration",
-      "source": "Fusion Industry Association",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2ZKd29SUE10aDczZlMyaW9JYVpNVlRib1g5WGM4eHRNNnBYUkc5U3BVWnljT0VlWDVLTTR0clZ6US1WNW1iLV9kMUFIUUpHenZDZGVBMzEyTWN3OEktaGJlNENSRmdLNlNLX0lpZDdZNGZvNVozVnBvZi0tNnBPendCR19YWWcwdHpjVTRBQVVRVkl0NUlaVGdlR00yY0RYVTgtSXl0NU1RbEhvTXBrNDRCcnppcjZOX0hoZUplT1BtcVk1czUwRkk2OUpyYndQTHNxRQ?oc=5",
-      "summary": "FIA and J-Fusion Announce Partnership as Japan Accelerates Push to Commercial Fusion Deployment Fusion Industry Association",
-      "why": "Aggregation: check the original reporting and publication date."
     }
   ],
   "papers": [
+    {
+      "title": "CNN-Based Locked Mode Detection and Prospects for Prediction Utilizing Density Fluctuation Signals",
+      "date": "2026-11-20",
+      "field": "Diagnostics",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.28266v1",
+      "authors": "Randall Clark, Maxim Nurgaliev, Georgy Subbotin et al.",
+      "summary": "The deceleration of Magnetohydrodynamic (MHD) modes in tokamak plasmas is an observed behavior commonly associated with growing mode amplitude. As rotating MHD modes decelerate to a non-rotating state, they can form Locked Modes (…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
     {
       "title": "Hot-Layer Ignition in High-Gain Inertial Confinement Fusion",
       "date": "2026-11-20",
@@ -472,16 +482,6 @@
       "url": "http://arxiv.org/abs/2611.15095v2",
       "authors": "Shinsuke Fujioka, Yuji Takagi, Nozomi Tanaka et al.",
       "summary": "Radiation transport in line-dominated plasmas, such as extreme ultraviolet (EUV) light source plasma, laser-fusion hohlraums, and stellar interiors, needs too many photon-energy groups for accurate radiation-hydrodynamic simulatio…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Data-driven non-contiguous photon-energy groups for fast multigroup radiation transport in line-dominated plasmas",
-      "date": "2026-11-11",
-      "field": "Simulation",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.15095v1",
-      "authors": "Shinsuke Fujioka, Yuji Takagi, Akira Sasaki et al.",
-      "summary": "Opacity of mid- and high-$Z$ plasmas is dominated by thousands of overlapping spectral lines. Examples are laser-produced plasmas for extreme-ultraviolet (EUV) lithography, inertial-fusion hohlraums, and stellar interiors. Radiati…",
       "question": "What is new, what evidence is shown, and what are the limitations?"
     }
   ]
