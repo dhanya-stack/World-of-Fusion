@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T13:47:33Z",
+  "updated": "2026-11-24T23:55:00Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -23,16 +23,6 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
-      "title": "Pacific Fusion secures key licence for New Mexico campus - World Nuclear News",
-      "date": "2026-11-20",
-      "region": "North America",
-      "tag": "Global news",
-      "source": "World Nuclear News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNm11bmoxb1QtU21sSlpFeE51VElQbHM4blhoams1bTc1MGNuWG9obDl1SkNrM3V5WTNzSFhuQ1ZQb2psR08xX1hXcVFvOUdEeFI1WWJHd1JPclR6SUxQLU8zTVdEbFJFNExCS0RiRjJDeEFxU3VWR2M5bmdyU2w5d2N2Vms4M0ZNb2pZbUxudURKaXp0VUtLS0szRGc?oc=5",
-      "summary": "Pacific Fusion secures key licence for New Mexico campus World Nuclear News",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
       "title": "France releases report on nuclear project financing, announces 10-year fusion strategy - American Nuclear Society",
       "date": "2026-11-18",
       "region": "North America",
@@ -53,6 +43,16 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
+      "title": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel - Interesting Engineering",
+      "date": "2026-11-16",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmk0TmVKOGhvc1V5RVdxWUJIRWhQNDhiZjhsdXZoNjR5cVdsQkpkR2NwajNDd2Y3WXhOSEJJQjducTIyUjUzcW1BSmwxRDNmeGYwNEhMNGxoOW5oS2pIandqMW4zWjNGeGd1QU1rWnpXNnlfc3RVV21waDhjZHB1dlJGaVZKdzZZ?oc=5",
+      "summary": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
       "title": "France adopts a national strategy for fusion - ITER",
       "date": "2026-11-16",
       "region": "Europe · Global",
@@ -70,16 +70,6 @@
       "source": "ITER",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBONGZGeFlHcFItVUozanZnV0hMNnBSX3pDZEtjeUgtNFV0dzM1UGNuZDdnRjgyU3RkNm5MeVAtQVRuQWNENDBQNjlobF95NzZoWjZBYml6c0lUbnlXTG5wMjczRElIM0l6Z1RwNWJtTmtRZHhYeTRHeQ?oc=5",
       "summary": "An international gathering on fusion in Vienna ITER",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "KINS investigates tritium leak in groundwater and seawater at Hanul Nuclear Plant - DongA Science",
-      "date": "2026-11-16",
-      "region": "Global",
-      "tag": "Policy",
-      "source": "DongA Science",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91b0hSaV90bFNzbUpNR1JLZHloY1czOTdTSzVfbjhMaWVCdlNXMUpoeUNnMkZaTXhpQXgwY0REcHVUWlZKX3Nwd29OMkhzOE0wbnltMA?oc=5",
-      "summary": "KINS investigates tritium leak in groundwater and seawater at Hanul Nuclear Plant DongA Science",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -223,6 +213,26 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
+      "title": "Fusion companies sign agreements during Japan-Germany meeting - American Nuclear Society",
+      "date": "2026-11-03",
+      "region": "Asia",
+      "tag": "Collaboration",
+      "source": "American Nuclear Society",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkQ0dVhzTlRoN212bDVoU19ON3llZkVUMjVXaFFXOHUyZXNOOHFzZnVVSmtXUVA3VC12QllWdC12a0ZURTZmRy1DMFlCT1FZQmhKNS00M2xNVGU2b0lTbEpJSUo4UENPc3JUSHNoSGhZc1Q1cGdyM3dWYlZ6ZFVlZUhoeFlHV1FHM09aYnVEV1hZWnNnd1hlcVYyRGlUU2NWcHQxLW9Ib3NLUFBYMjhr?oc=5",
+      "summary": "Fusion companies sign agreements during Japan-Germany meeting American Nuclear Society",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "World's largest fusion project tests 330-tonne magnet at 34 kA - Interesting Engineering",
+      "date": "2026-11-03",
+      "region": "Global",
+      "tag": "Magnets",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3MxZmhpb0gtQ1EwVHFPcTc0c1E2SVVlM1JiNEZ4WXZBX0dvQTlreUs2eXVObk05RXJ0a1c0bXVxeFZ0QTFEclNzMnp4RlU1M0RMTktDTHROSVJLQkVvTjNpMC1FRmFyOXdhRGR0ekM4ZlNJaG1PZFhfcGVoVFNqZWVLMm9jcGhOSE1ONXlXdw?oc=5",
+      "summary": "World's largest fusion project tests 330-tonne magnet at 34 kA Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
       "title": "U.S. announces 28 fusion public–private research awards",
       "date": "2026-11-02",
       "region": "North America",
@@ -251,19 +261,29 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DSTZibTRDTUxqSm90R003aHM0ZVI5QTlLWjQzQU9TU1FuemRIbjB6WkVHYzgzTTlVRjc2VXd3dUxDZTF1RWNGOVZZNnEzR3dzRmFkSXFHQUc0NHZPZm5PSnljdEJyWktlYXJUWW85bHo1OTVxek9NOWZ5bw?oc=5",
       "summary": "Radio waves drive a fusion plasma current that could help reactors run continuously Phys.org",
       "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "FIA and J-Fusion Announce Partnership as Japan Accelerates Push to Commercial Fusion Deployment - Fusion Industry Association",
-      "date": "2026-10-27",
-      "region": "Asia",
-      "tag": "Collaboration",
-      "source": "Fusion Industry Association",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2ZKd29SUE10aDczZlMyaW9JYVpNVlRib1g5WGM4eHRNNnBYUkc5U3BVWnljT0VlWDVLTTR0clZ6US1WNW1iLV9kMUFIUUpHenZDZGVBMzEyTWN3OEktaGJlNENSRmdLNlNLX0lpZDdZNGZvNVozVnBvZi0tNnBPendCR19YWWcwdHpjVTRBQVVRVkl0NUlaVGdlR00yY0RYVTgtSXl0NU1RbEhvTXBrNDRCcnppcjZOX0hoZUplT1BtcVk1czUwRkk2OUpyYndQTHNxRQ?oc=5",
-      "summary": "FIA and J-Fusion Announce Partnership as Japan Accelerates Push to Commercial Fusion Deployment Fusion Industry Association",
-      "why": "Aggregation: check the original reporting and publication date."
     }
   ],
   "papers": [
+    {
+      "title": "Bypassing the Nanoampere Limit: A Thick-Target Methodology for Ultra-Low-Energy Resonances in the $^{11}$B(p,$α$)2$α$ Reaction",
+      "date": "2026-11-23",
+      "field": "Diagnostics",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.30439v1",
+      "authors": "Xu-Yang Luo, Wen-Qing Wei, Shi-zheng Zhang et al.",
+      "summary": "Precise measurements of the low-energy cross section for the $^{11}$B(p,$α$)2$α$ reaction is critical for nuclear astrophysics and fusion energy research, yet such measurements are experimentally demanding due to the reaction's ex…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Single-Shot Single-Stage Stellarators",
+      "date": "2026-11-21",
+      "field": "Stellarator",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.29090v1",
+      "authors": "Pedro F. Gil, Lanke Fu, Alan A. Kaptanoglu",
+      "summary": "In stellarator design, the plasma and the coils are so geometrically complex that they are usually designed separately, so that a high-performance plasma may be impossible to reproduce with coils that can actually be manufactured…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
     {
       "title": "CNN-Based Locked Mode Detection and Prospects for Prediction Utilizing Density Fluctuation Signals",
       "date": "2026-11-20",
@@ -462,26 +482,6 @@
       "url": "http://arxiv.org/abs/2611.15382v1",
       "authors": "Yuesong Li, Zihao Wang, Haochuan Wang et al.",
       "summary": "The driving mechanisms of zonal flows (ZFs) in multi-ion-species tokamak plasmas are investigated by using gyrokinetic theory and simulations. For deuterium plasmas containing either helium ash with a steep density gradient or lit…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Cross-channel amplification of frequency-distinct scattered waves in multibeam stimulated Brillouin scattering",
-      "date": "2026-11-11",
-      "field": "Simulation",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.15293v1",
-      "authors": "Y. Chen, Qing Wang, H. Wen et al.",
-      "summary": "Multibeam stimulated Brillouin scattering (SBS) can be amplified when one side-scattered wave draws energy from several pumps, each through a separate ion-acoustic-wave (IAW) branch. This is not common-daughter-wave coupling: scat…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Data-driven non-contiguous photon-energy groups for fast multigroup radiation transport in line-dominated plasmas",
-      "date": "2026-11-11",
-      "field": "Simulation",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.15095v2",
-      "authors": "Shinsuke Fujioka, Yuji Takagi, Nozomi Tanaka et al.",
-      "summary": "Radiation transport in line-dominated plasmas, such as extreme ultraviolet (EUV) light source plasma, laser-fusion hohlraums, and stellar interiors, needs too many photon-energy groups for accurate radiation-hydrodynamic simulatio…",
       "question": "What is new, what evidence is shown, and what are the limitations?"
     }
   ]
