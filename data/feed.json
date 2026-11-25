@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-25T13:00:00Z",
+  "updated": "2026-11-25T23:39:10Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
-      "title": "Comment: Fusion hiring boom opens doors to engineers from other sectors - The Engineer",
-      "date": "2026-11-23",
-      "region": "Global",
-      "tag": "Global news",
-      "source": "The Engineer",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYjBEVS0ta0xTNFl5Rmp4RkdtN2lMdjRqRjhOYi12dU5TdVk4LUdKVjZjWHR0Q3dPZ3lycnA2S3BXRURFWVc3QmNmdENydzEtMVZmMk5MTXl3M1N3V2xfS2pXZThyXzFuVmFzR3hfWnFaeUp2cDdOTVpfbVk4cDQ4QnpVWU5IV0NqcW5LMl9vTmpBTGNvVDNNakZ3Y2JSTktmYm90d01R?oc=5",
-      "summary": "Comment: Fusion hiring boom opens doors to engineers from other sectors The Engineer",
+      "title": "First radial plate manufactured for Proxima stellarator - World Nuclear News",
+      "date": "2026-11-25",
+      "region": "Europe · Global",
+      "tag": "Plasma",
+      "source": "World Nuclear News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGZhU3luRmpKTW1KcEJKeGhza3JEak8xY0Yzc1l1ZW9xS3JqdVlKYV9uSU9RSHdVQy1pdjdRMnVuY0c4LTcwRHVvQ2hXWmVlMWdfNTI4OFZFUjFNaW82YUFCWGpzLWFnblQxWjFOTUthbVpvR1B0MVB2UEpOOXhvb214dDJQaHFlQmk1cEoxM3dRYmhCUnNtOFE3RjEzc2VT?oc=5",
+      "summary": "First radial plate manufactured for Proxima stellarator World Nuclear News",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -20,6 +20,16 @@
       "source": "Phys.org",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBITFpHS0hrdUlRSTJWUHNLVnEwSmZtLW5kVW5DUnB3WnpaLTllU3IwZHF1bmFVckhPWDhmTDE4WHRDbDg5X1NNejIzWjlXQjNTWEozNVpPZ25rckp2bGtDd0VVSVBmQWhGOGZwZGdmbnJpcXhzdEdzOQ?oc=5",
       "summary": "Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle Phys.org",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Pacific Fusion secures key licence for New Mexico campus - World Nuclear News",
+      "date": "2026-11-20",
+      "region": "North America",
+      "tag": "Global news",
+      "source": "World Nuclear News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNm11bmoxb1QtU21sSlpFeE51VElQbHM4blhoams1bTc1MGNuWG9obDl1SkNrM3V5WTNzSFhuQ1ZQb2psR08xX1hXcVFvOUdEeFI1WWJHd1JPclR6SUxQLU8zTVdEbFJFNExCS0RiRjJDeEFxU3VWR2M5bmdyU2w5d2N2Vms4M0ZNb2pZbUxudURKaXp0VUtLS0szRGc?oc=5",
+      "summary": "Pacific Fusion secures key licence for New Mexico campus World Nuclear News",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -73,6 +83,16 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
+      "title": "KINS investigates tritium leak in groundwater and seawater at Hanul Nuclear Plant - DongA Science",
+      "date": "2026-11-16",
+      "region": "Global",
+      "tag": "Policy",
+      "source": "DongA Science",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91b0hSaV90bFNzbUpNR1JLZHloY1czOTdTSzVfbjhMaWVCdlNXMUpoeUNnMkZaTXhpQXgwY0REcHVUWlZKX3Nwd29OMkhzOE0wbnltMA?oc=5",
+      "summary": "KINS investigates tritium leak in groundwater and seawater at Hanul Nuclear Plant DongA Science",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
       "title": "Nuclear fusion reactor exhaust heat gets world’s first levitated dipole divertor tech - Interesting Engineering",
       "date": "2026-11-12",
       "region": "Global",
@@ -123,16 +143,6 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
-      "title": "U.S. Department of Energy Announces $8.5M for INFUSE Public-Private Partnership Program - Fusion Industry Association",
-      "date": "2026-11-06",
-      "region": "North America",
-      "tag": "Collaboration",
-      "source": "Fusion Industry Association",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0JDcDVGTWZxdDNoYlc2RHF1VFpGbWk5SzQwMy1tYVFiek5TeHhUei1oVU9fdjd3YmJRRkRTREhtcmthSk9aSnNLU1BYYVA4bHowY1dFWDl3VFVwbmYwakotT2NUMnVUNF9uTUlWZ0tqOHYwcWc4NVdRVlBkVzZ2RTdlVThFemhBOVdFenhzLXVueGZqQ2ZDV1VhZnByOWhTdTZieDY2MFhJSnZvRXJmRVdtRDZURDkxMm9neFZB?oc=5",
-      "summary": "U.S. Department of Energy Announces $8.5M for INFUSE Public-Private Partnership Program Fusion Industry Association",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
       "title": "Thea Energy, MIT collaborate on testing stellarator magnet technology - American Nuclear Society",
       "date": "2026-11-06",
       "region": "North America",
@@ -160,16 +170,6 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0J4LWl3YnVHOXE4bURxR3k5ajBDWVJCSmRFOHhqOWZCbHNDMm1ZSUtQN3ZpUHRjRTQ3SHUybkQ3Wkttd1U2N1hOQ0tBVXVVdm5Vb2dXaklyMFFDMU92d3JwZ3hCaWtFRGRXbG1qNFVrYkEya1JhY1gxWEJwbE03WHNreVNJckpHREhvdWQxWXQ?oc=5",
       "summary": "US nuclear fusion reactor push to deploy advanced plasma tech, hardware in new pact Interesting Engineering",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "Korea Institute of Fusion Energy launches fusion and marine MSR R&D from 2027 - DongA Science - DongA Science",
-      "date": "2026-11-05",
-      "region": "Asia",
-      "tag": "Global news",
-      "source": "DongA Science",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zRUFjdDVPUG9NZXNmYlZpNk5sTmNuY18yVGlyR2d6dVplVkQ5WDV3M1lqTDdLeklLbWEyZGVHa19VZ2haZHU1amdVc1NWR3FmYzkwVw?oc=5",
-      "summary": "Korea Institute of Fusion Energy launches fusion and marine MSR R&D from 2027 - DongA Science DongA Science",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -233,6 +233,16 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
+      "title": "Fusion companies sign agreements during Japan-Germany meeting - American Nuclear Society",
+      "date": "2026-11-03",
+      "region": "Asia",
+      "tag": "Collaboration",
+      "source": "American Nuclear Society",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkQ0dVhzTlRoN212bDVoU19ON3llZkVUMjVXaFFXOHUyZXNOOHFzZnVVSmtXUVA3VC12QllWdC12a0ZURTZmRy1DMFlCT1FZQmhKNS00M2xNVGU2b0lTbEpJSUo4UENPc3JUSHNoSGhZc1Q1cGdyM3dWYlZ6ZFVlZUhoeFlHV1FHM09aYnVEV1hZWnNnd1hlcVYyRGlUU2NWcHQxLW9Ib3NLUFBYMjhr?oc=5",
+      "summary": "Fusion companies sign agreements during Japan-Germany meeting American Nuclear Society",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
       "title": "World's largest fusion project tests 330-tonne magnet at 34 kA - Interesting Engineering",
       "date": "2026-11-03",
       "region": "Global",
@@ -251,16 +261,6 @@
       "url": "https://www.energy.gov/science/articles/does-office-science-announces-85-million-innovative-fusion-energy-public-private",
       "summary": "An $8.5 million round of INFUSE awards connects companies with national laboratories and universities.",
       "why": "See how engineering capability moves between research institutions and commercial developers."
-    },
-    {
-      "title": "ITER toroidal-field coil reaches half nominal operating current in cold test",
-      "date": "2026-11-02",
-      "region": "Europe · Global",
-      "tag": "Magnets",
-      "source": "ITER",
-      "url": "https://www.iter.org/news",
-      "summary": "A large toroidal-field magnet was energized to 34 kA during testing, with further higher-current testing planned.",
-      "why": "Consider cold acceptance testing, electrical insulation, structural forces and test sequencing."
     }
   ],
   "papers": [
