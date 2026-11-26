@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T23:39:10Z",
+  "updated": "2026-11-26T12:40:51Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -20,16 +20,6 @@
       "source": "Phys.org",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBITFpHS0hrdUlRSTJWUHNLVnEwSmZtLW5kVW5DUnB3WnpaLTllU3IwZHF1bmFVckhPWDhmTDE4WHRDbDg5X1NNejIzWjlXQjNTWEozNVpPZ25rckp2bGtDd0VVSVBmQWhGOGZwZGdmbnJpcXhzdEdzOQ?oc=5",
       "summary": "Theory explains how fusion plasmas enter a state of improved energy confinement, solving a 40-year puzzle Phys.org",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "Pacific Fusion secures key licence for New Mexico campus - World Nuclear News",
-      "date": "2026-11-20",
-      "region": "North America",
-      "tag": "Global news",
-      "source": "World Nuclear News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNm11bmoxb1QtU21sSlpFeE51VElQbHM4blhoams1bTc1MGNuWG9obDl1SkNrM3V5WTNzSFhuQ1ZQb2psR08xX1hXcVFvOUdEeFI1WWJHd1JPclR6SUxQLU8zTVdEbFJFNExCS0RiRjJDeEFxU3VWR2M5bmdyU2w5d2N2Vms4M0ZNb2pZbUxudURKaXp0VUtLS0szRGc?oc=5",
-      "summary": "Pacific Fusion secures key licence for New Mexico campus World Nuclear News",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -80,16 +70,6 @@
       "source": "ITER",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBONGZGeFlHcFItVUozanZnV0hMNnBSX3pDZEtjeUgtNFV0dzM1UGNuZDdnRjgyU3RkNm5MeVAtQVRuQWNENDBQNjlobF95NzZoWjZBYml6c0lUbnlXTG5wMjczRElIM0l6Z1RwNWJtTmtRZHhYeTRHeQ?oc=5",
       "summary": "An international gathering on fusion in Vienna ITER",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "KINS investigates tritium leak in groundwater and seawater at Hanul Nuclear Plant - DongA Science",
-      "date": "2026-11-16",
-      "region": "Global",
-      "tag": "Policy",
-      "source": "DongA Science",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91b0hSaV90bFNzbUpNR1JLZHloY1czOTdTSzVfbjhMaWVCdlNXMUpoeUNnMkZaTXhpQXgwY0REcHVUWlZKX3Nwd29OMkhzOE0wbnltMA?oc=5",
-      "summary": "KINS investigates tritium leak in groundwater and seawater at Hanul Nuclear Plant DongA Science",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -193,16 +173,6 @@
       "why": "A direct link between materials processing, quality and plasma-facing component performance."
     },
     {
-      "title": "Heat raised for UK's MAST Upgrade fusion machine - World Nuclear News",
-      "date": "2026-11-04",
-      "region": "Global",
-      "tag": "Global news",
-      "source": "World Nuclear News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VZS1cwcW1TNE1Xa3VWVmJuVXB4VzU5eERsLURvMlVKZERFWEk4TDlBeWNhUkswTG1PRWpiYm45anJkTU1wZHJXT2pPZHVBdTVJakZKbWFoMldNQ1EtandtZnVtcHhiNnhfQmxUZHowbUhKQmhIZ3FtMVpVMTd2ZG9YMUFJbnIzNnNxb0ptU19HLTROTllCbA?oc=5",
-      "summary": "Heat raised for UK's MAST Upgrade fusion machine World Nuclear News",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
       "title": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F - Interesting Engineering",
       "date": "2026-11-04",
       "region": "Global",
@@ -210,6 +180,16 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObFhveW1kLThRdUVhV2RJcXE2cEd6N05RUEV4TWFuY2FYRnR0TkZ2MGZxVHhxNzM4ZTNNUm5XRXdMOTRWbmFYdklLTEJueExlWTlIWlB4Y3FhZnhQQkdJbHpFdXdUQVF5NzY1MGF4cDNkcXBiOFZsTGJuME12YUFyd0x5LXU?oc=5",
       "summary": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Heat raised for UK's MAST Upgrade fusion machine - World Nuclear News",
+      "date": "2026-11-04",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "World Nuclear News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VZS1cwcW1TNE1Xa3VWVmJuVXB4VzU5eERsLURvMlVKZERFWEk4TDlBeWNhUkswTG1PRWpiYm45anJkTU1wZHJXT2pPZHVBdTVJakZKbWFoMldNQ1EtandtZnVtcHhiNnhfQmxUZHowbUhKQmhIZ3FtMVpVMTd2ZG9YMUFJbnIzNnNxb0ptU19HLTROTllCbA?oc=5",
+      "summary": "Heat raised for UK's MAST Upgrade fusion machine World Nuclear News",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -264,6 +244,26 @@
     }
   ],
   "papers": [
+    {
+      "title": "A 2D fluid model in BOUT++/Hermes-3 for simulating detached divertor plasmas in tokamaks",
+      "date": "2026-11-25",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.34717v1",
+      "authors": "Malamas Tsagkaridis, Ben Dudson, Mike Kryjak et al.",
+      "summary": "Detached divertor operation is essential for controlling target heat fluxes in future high-power tokamaks. We present a two-dimensional fluid model implemented in BOUT++/Hermes-3 for simulating detached divertor plasmas with plasm…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
+    {
+      "title": "Global self-organisation via driven interchange turbulence in a hard-core Z-pinch",
+      "date": "2026-11-25",
+      "field": "Simulation",
+      "level": "Preprint · check review status",
+      "url": "http://arxiv.org/abs/2611.33618v1",
+      "authors": "Jonathan Squire, Christopher Hill, Laoisa Huckle",
+      "summary": "Whereas most magnetic-confinement concepts seek to suppress turbulent transport, the levitated dipole exploits it, with plasma turbulently self-organising to concentrate into the stronger-field region near the levitating coil. In…",
+      "question": "What is new, what evidence is shown, and what are the limitations?"
+    },
     {
       "title": "Toward divertor plasma detachment in pure D-T plasma in fusion reactor with H-mode-like plasma confinement",
       "date": "2026-11-23",
@@ -462,26 +462,6 @@
       "url": "http://arxiv.org/abs/2611.19520v1",
       "authors": "Hanne Thienpondt",
       "summary": "Achieving sustained energy production in magnetic confinement fusion reactors requires a deep understanding of turbulent transport of heat and particles. This thesis investigates turbulent transport with a particular emphasis on s…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Scaling of the Radial Motion and Size of Filamentary Structures in the Scrape-Off Layer Inferred from 100 kHz Visible Imaging on 294 MAST Discharges",
-      "date": "2026-11-14",
-      "field": "Plasma physics",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.19175v1",
-      "authors": "Jessie Dong, Ryan Wu",
-      "summary": "Filaments are important carriers of cross-field transport in the scrape-off layer of a tokamak. Analytic models predict that their radial velocity varies with their size. We measured the radial velocity and size of a large populat…",
-      "question": "What is new, what evidence is shown, and what are the limitations?"
-    },
-    {
-      "title": "Generation of low-frequency flows by shear Alfvén waves in magnetohydrodynamics",
-      "date": "2026-11-13",
-      "field": "Simulation",
-      "level": "Preprint · check review status",
-      "url": "http://arxiv.org/abs/2611.18423v1",
-      "authors": "James M. Edmiston, Michael Fitzgerald, Juan Ruiz Ruiz et al.",
-      "summary": "Coherently forced, weak reduced-magnetohydrodynamic turbulence is studied in a uniform plasma to investigate the long-term nonlinear interactions of shear Alfvén waves. The 'pump waves' are chosen to model toroidal Alfvén eigenmod…",
       "question": "What is new, what evidence is shown, and what are the limitations?"
     }
   ]
