@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T12:28:29Z",
+  "updated": "2026-11-27T23:29:02Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -133,6 +133,16 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
+      "title": "U.S. Department of Energy Announces $8.5M for INFUSE Public-Private Partnership Program - Fusion Industry Association",
+      "date": "2026-11-06",
+      "region": "North America",
+      "tag": "Collaboration",
+      "source": "Fusion Industry Association",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT0JDcDVGTWZxdDNoYlc2RHF1VFpGbWk5SzQwMy1tYVFiek5TeHhUei1oVU9fdjd3YmJRRkRTREhtcmthSk9aSnNLU1BYYVA4bHowY1dFWDl3VFVwbmYwakotT2NUMnVUNF9uTUlWZ0tqOHYwcWc4NVdRVlBkVzZ2RTdlVThFemhBOVdFenhzLXVueGZqQ2ZDV1VhZnByOWhTdTZieDY2MFhJSnZvRXJmRVdtRDZURDkxMm9neFZB?oc=5",
+      "summary": "U.S. Department of Energy Announces $8.5M for INFUSE Public-Private Partnership Program Fusion Industry Association",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
       "title": "Thea Energy, MIT collaborate on testing stellarator magnet technology - American Nuclear Society",
       "date": "2026-11-06",
       "region": "North America",
@@ -160,6 +170,16 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0J4LWl3YnVHOXE4bURxR3k5ajBDWVJCSmRFOHhqOWZCbHNDMm1ZSUtQN3ZpUHRjRTQ3SHUybkQ3Wkttd1U2N1hOQ0tBVXVVdm5Vb2dXaklyMFFDMU92d3JwZ3hCaWtFRGRXbG1qNFVrYkEya1JhY1gxWEJwbE03WHNreVNJckpHREhvdWQxWXQ?oc=5",
       "summary": "US nuclear fusion reactor push to deploy advanced plasma tech, hardware in new pact Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Korea Institute of Fusion Energy launches fusion and marine MSR R&D from 2027 - DongA Science - DongA Science",
+      "date": "2026-11-05",
+      "region": "Asia",
+      "tag": "Global news",
+      "source": "DongA Science",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zRUFjdDVPUG9NZXNmYlZpNk5sTmNuY18yVGlyR2d6dVplVkQ5WDV3M1lqTDdLeklLbWEyZGVHa19VZ2haZHU1amdVc1NWR3FmYzkwVw?oc=5",
+      "summary": "Korea Institute of Fusion Energy launches fusion and marine MSR R&D from 2027 - DongA Science DongA Science",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -241,16 +261,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3MxZmhpb0gtQ1EwVHFPcTc0c1E2SVVlM1JiNEZ4WXZBX0dvQTlreUs2eXVObk05RXJ0a1c0bXVxeFZ0QTFEclNzMnp4RlU1M0RMTktDTHROSVJLQkVvTjNpMC1FRmFyOXdhRGR0ekM4ZlNJaG1PZFhfcGVoVFNqZWVLMm9jcGhOSE1ONXlXdw?oc=5",
       "summary": "World's largest fusion project tests 330-tonne magnet at 34 kA Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "U.S. announces 28 fusion public–private research awards",
-      "date": "2026-11-02",
-      "region": "North America",
-      "tag": "Collaboration",
-      "source": "U.S. Department of Energy",
-      "url": "https://www.energy.gov/science/articles/does-office-science-announces-85-million-innovative-fusion-energy-public-private",
-      "summary": "An $8.5 million round of INFUSE awards connects companies with national laboratories and universities.",
-      "why": "See how engineering capability moves between research institutions and commercial developers."
     }
   ],
   "papers": [
