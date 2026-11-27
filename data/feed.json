@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T23:52:26Z",
+  "updated": "2026-11-27T12:28:29Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -33,13 +33,13 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
-      "title": "France releases report on nuclear project financing, announces 10-year fusion strategy - American Nuclear Society",
+      "title": "France releases report on nuclear project financing, announces 10-year fusion strategy - American Nuclear Society -- ANS",
       "date": "2026-11-18",
       "region": "North America",
       "tag": "Global news",
-      "source": "American Nuclear Society",
+      "source": "American Nuclear Society -- ANS",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY01UOHFUcHJtdGtEcGI3cFVId0pNMDAxVmRQNE9LRENmSm5weENpa1JvRjlYQ2dmbzBNS0pIRkRnTURMNlpydGRVOUVnWGpxNktPbDh0ZlRoUmtzS0lnbS0wNG1KN2syaFJRMGdlbEp3RjlWcTltTVhuanp5SnBCZWwzNVJya1JkMlhkTE1xSHUwNHoxbThLQjc2NE1GYjVVLXpnX3M3c3FwSXk0c3hQYjNPOGFEWHZWNmtEZ2JBWGo?oc=5",
-      "summary": "France releases report on nuclear project financing, announces 10-year fusion strategy American Nuclear Society",
+      "summary": "France releases report on nuclear project financing, announces 10-year fusion strategy American Nuclear Society -- ANS",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -50,6 +50,16 @@
       "source": "World Nuclear News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWo3MFAwNXVtUkNISVl6NHI4eFBRUkM4ME1nN3FhMmhmeVNpLTBIalNxd0xBNDFFRHJTd3BRVm41TENsdUxIS3FIYkRPbnVWVHItWV95bEJGMGZrb3pDMzhXRXJnY08wVk5uUjBDTmNqNmhHU2pIcG5Tc3BWTVlfMVBxUk5UYWU4bVppZ2pJVHE4U1c5NVcxMw?oc=5",
       "summary": "France launches roadmap for fusion energy development World Nuclear News",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel - Interesting Engineering",
+      "date": "2026-11-16",
+      "region": "Global",
+      "tag": "Global news",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmk0TmVKOGhvc1V5RVdxWUJIRWhQNDhiZjhsdXZoNjR5cVdsQkpkR2NwajNDd2Y3WXhOSEJJQjducTIyUjUzcW1BSmwxRDNmeGYwNEhMNGxoOW5oS2pIandqMW4zWjNGeGd1QU1rWnpXNnlfc3RVV21waDhjZHB1dlJGaVZKdzZZ?oc=5",
+      "summary": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
