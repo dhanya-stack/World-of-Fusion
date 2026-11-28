@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T23:29:02Z",
+  "updated": "2026-11-28T11:51:32Z",
   "source_note": "Automated aggregator; article titles and abstracts link to original publishers. Verify claims independently.",
   "news": [
     {
@@ -50,16 +50,6 @@
       "source": "World Nuclear News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWo3MFAwNXVtUkNISVl6NHI4eFBRUkM4ME1nN3FhMmhmeVNpLTBIalNxd0xBNDFFRHJTd3BRVm41TENsdUxIS3FIYkRPbnVWVHItWV95bEJGMGZrb3pDMzhXRXJnY08wVk5uUjBDTmNqNmhHU2pIcG5Tc3BWTVlfMVBxUk5UYWU4bVppZ2pJVHE4U1c5NVcxMw?oc=5",
       "summary": "France launches roadmap for fusion energy development World Nuclear News",
-      "why": "Aggregation: check the original reporting and publication date."
-    },
-    {
-      "title": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel - Interesting Engineering",
-      "date": "2026-11-16",
-      "region": "Global",
-      "tag": "Global news",
-      "source": "Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmk0TmVKOGhvc1V5RVdxWUJIRWhQNDhiZjhsdXZoNjR5cVdsQkpkR2NwajNDd2Y3WXhOSEJJQjducTIyUjUzcW1BSmwxRDNmeGYwNEhMNGxoOW5oS2pIandqMW4zWjNGeGd1QU1rWnpXNnlfc3RVV21waDhjZHB1dlJGaVZKdzZZ?oc=5",
-      "summary": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -143,13 +133,13 @@
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
-      "title": "Thea Energy, MIT collaborate on testing stellarator magnet technology - American Nuclear Society",
+      "title": "Thea Energy, MIT collaborate on testing stellarator magnet technology - American Nuclear Society -- ANS",
       "date": "2026-11-06",
       "region": "North America",
       "tag": "Magnets",
-      "source": "American Nuclear Society",
+      "source": "American Nuclear Society -- ANS",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVhmNXRrcGtVOHBSRi1Sdy1OaUpUZkk1cnF3TnJERWF3T2ZDYzh3eDZ4b2MyeUVHQWY0VVlRTW4zVkk1UGVnTnRqbEFzbjRnOFp2ald1QjNqYU5sQVN2ZC14UUc2QUR0T3FHMU1oY1RrN1FxQkhEc0Z2MnNkWlMwSy1wZ3Z3Mk00bXhpSlItUktBYnpXa0xmU3QwSlpKRkcybFl2LTBMVGlvR2wwNmYzLU43N2ljaGtSLUE?oc=5",
-      "summary": "Thea Energy, MIT collaborate on testing stellarator magnet technology American Nuclear Society",
+      "summary": "Thea Energy, MIT collaborate on testing stellarator magnet technology American Nuclear Society -- ANS",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
@@ -240,6 +230,16 @@
       "source": "Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzBReHlEQlBhX3BKVnNSQlhjZU5pLUV5MDk1TXRuMG5sbDhCVVBXUlJtUGh4ZzlQLVNCODFDNEdJc19FaUtuMjEzNVY1SHRlNjk5TjdCdkM2MXN2OXU3a2Z4eU1pSmRMY1B4dVV4d3ViSDZLVWVMQ3lxV3Fmb3h3ZXdYZWxYZ1My?oc=5",
       "summary": "MIT puts next-generation stellarator magnet through full-force test Interesting Engineering",
+      "why": "Aggregation: check the original reporting and publication date."
+    },
+    {
+      "title": "US fusion reactor could unlock 24/7 power using helicon current drive - Interesting Engineering",
+      "date": "2026-11-03",
+      "region": "North America",
+      "tag": "Global news",
+      "source": "Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORFN5LWlZQWhDT1NwZ3UzcnNmdk95T0hYdEYtdWpHeG1wcEVvdW9aaU53dTVJZmJabnFOREZGckFnb3JYN1dHTWUzX2FYV1Z3a040ajNxeVU1eTFrazZfdDJJWGxCV25aRDIycXFRZjB3MUlhVkdLS1lIcjNxVi1mZDhRRQ?oc=5",
+      "summary": "US fusion reactor could unlock 24/7 power using helicon current drive Interesting Engineering",
       "why": "Aggregation: check the original reporting and publication date."
     },
     {
